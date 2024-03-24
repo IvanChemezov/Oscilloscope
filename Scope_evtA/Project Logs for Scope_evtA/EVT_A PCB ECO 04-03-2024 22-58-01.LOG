@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DAC_Out Pin=R43-1
+Removed Pin From Net: NetName=Trig_Ref Pin=R44-1
+Added Pin To Net: NetName=Trig_Ref Pin=R43-1
+Added Pin To Net: NetName=DAC_Out Pin=R44-1

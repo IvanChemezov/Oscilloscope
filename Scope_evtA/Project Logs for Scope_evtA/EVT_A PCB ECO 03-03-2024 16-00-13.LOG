@@ -1,0 +1,7 @@
+Change Class Name : Old Net Name=Designator New Net Name=Analog
+Change Class Name : Old Net Name=Designator New Net Name=Power
+Added Class: Name=MCU
+Change Room Name: Old Name=Designator_1 New Name=Power
+Change Room Scope: Old Scope=InComponentClass('Designator') New Scope=InComponentClass('Power')
+Added Room: Name=Analog
+Added Room: Name=MCU

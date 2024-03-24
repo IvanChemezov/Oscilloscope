@@ -1,0 +1,54 @@
+Change Component Comment : Designator=C6 Old Comment=* New Comment=0.1u
+Change Component Comment : Designator=C5 Old Comment=* New Comment=4.7u
+Change component parameters: Designator = "C5" ("C5"); Footprint = "C0402"; UniqueID = "\NBCHMVBP" ("\NBCHMVBP")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRT155C81A475ME13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "C0402"; UniqueID = "\PIGFPOAR" ("\PIGFPOAR")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murate"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Digital Member=Component C4 *
+Added Member To Class: ClassName=Digital Member=Component C5 4.7u
+Added Member To Class: ClassName=Digital Member=Component C6 0.1u
+Added Member To Class: ClassName=Digital Member=Component C8 330p
+Added Member To Class: ClassName=Digital Member=Component C9 *
+Added Member To Class: ClassName=Digital Member=Component C10 *
+Added Member To Class: ClassName=Digital Member=Component C11 330p
+Added Member To Class: ClassName=Digital Member=Component C12 4.7u
+Added Member To Class: ClassName=Digital Member=Component C14 4.7u
+Added Member To Class: ClassName=Digital Member=Component C15 0.1u
+Added Member To Class: ClassName=Digital Member=Component C17 0.1u
+Added Member To Class: ClassName=Digital Member=Component C18 4.7u
+Added Member To Class: ClassName=Digital Member=Component C19 0.1u
+Added Member To Class: ClassName=Digital Member=Component C20 1u
+Added Member To Class: ClassName=Digital Member=Component C21 4.7u
+Added Member To Class: ClassName=Digital Member=Component C22 4.7u
+Added Member To Class: ClassName=Digital Member=Component C24 10p
+Added Member To Class: ClassName=Digital Member=Component C25 10p
+Added Member To Class: ClassName=Digital Member=Component C26 4.7u
+Added Member To Class: ClassName=Digital Member=Component C27 0.1u
+Added Member To Class: ClassName=Digital Member=Component C28 1u
+Added Member To Class: ClassName=Digital Member=Component C29 4.7u
+Added Member To Class: ClassName=Digital Member=Component C30 0.1u
+Added Member To Class: ClassName=Digital Member=Component R16 22 k
+Added Member To Class: ClassName=Digital Member=Component R17 0R
+Added Member To Class: ClassName=Digital Member=Component R18 22 R
+Added Member To Class: ClassName=Digital Member=Component R20 22 k
+Added Member To Class: ClassName=Digital Member=Component R21 470R
+Added Member To Class: ClassName=Digital Member=Component R22 1 M
+Added Member To Class: ClassName=Digital Member=Component R23 22 k
+Added Member To Class: ClassName=Digital Member=Component R24 470R
+Added Room: Name=Digital

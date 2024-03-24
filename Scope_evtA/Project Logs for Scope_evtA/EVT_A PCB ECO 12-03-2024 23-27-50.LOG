@@ -1,0 +1,226 @@
+Removed Pin From Net: NetName=NetDA3_6 Pin=R24-1
+Removed Pin From Net: NetName=D_1 Pin=R24-2
+Removed Pin From Net: NetName=NetDA3_7 Pin=R25-1
+Removed Pin From Net: NetName=D_2 Pin=R25-2
+Removed Pin From Net: NetName=NetDA3_8 Pin=R26-1
+Removed Pin From Net: NetName=D_3 Pin=R26-2
+Removed Pin From Net: NetName=NetDA3_9 Pin=R28-1
+Removed Pin From Net: NetName=D_4 Pin=R28-2
+Removed Pin From Net: NetName=NetDA3_10 Pin=R30-1
+Removed Pin From Net: NetName=D_5 Pin=R30-2
+Removed Pin From Net: NetName=NetDA3_11 Pin=R31-1
+Removed Pin From Net: NetName=D_6 Pin=R31-2
+Removed Pin From Net: NetName=NetDA3_12 Pin=R32-1
+Removed Pin From Net: NetName=D_7 Pin=R32-2
+Removed Pin From Net: NetName=NetDA3_13 Pin=R33-1
+Removed Pin From Net: NetName=D_8 Pin=R33-2
+Removed Pin From Net: NetName=NetDA3_14 Pin=R35-1
+Removed Pin From Net: NetName=D_9 Pin=R35-2
+Removed Pin From Net: NetName=NetDA3_17 Pin=R36-1
+Removed Pin From Net: NetName=D_10 Pin=R36-2
+Removed Pin From Net: NetName=NetDA3_18 Pin=R38-1
+Removed Pin From Net: NetName=D_11 Pin=R38-2
+Removed Pin From Net: NetName=NetDA3_19 Pin=R39-1
+Removed Pin From Net: NetName=D_12 Pin=R39-2
+Removed Pin From Net: NetName=NetDA3_20 Pin=R40-1
+Removed Pin From Net: NetName=D_13 Pin=R40-2
+Removed Pin From Net: NetName=OTR Pin=R42-1
+Removed Pin From Net: NetName=NetDD7_10 Pin=R42-2
+Removed Pin From Net: NetName=PDWN Pin=R43-1
+Removed Pin From Net: NetName=NetDD7_11 Pin=R43-2
+Removed Pin From Net: NetName=DAC_Out Pin=R44-1
+Removed Pin From Net: NetName=NetDD7_12 Pin=R44-2
+Removed Pin From Net: NetName=Trig_Ref Pin=R45-1
+Removed Pin From Net: NetName=NetDD7_13 Pin=R45-2
+Removed Pin From Net: NetName=Sense Pin=R46-1
+Removed Pin From Net: NetName=NetDD7_14 Pin=R46-2
+Removed Pin From Net: NetName=PWM_LED Pin=R47-1
+Removed Pin From Net: NetName=NetDD7_15 Pin=R47-2
+Removed Pin From Net: NetName=SWDIO Pin=R51-1
+Removed Pin From Net: NetName=NetDD7_36 Pin=R51-2
+Removed Pin From Net: NetName=SWCLK Pin=R52-1
+Removed Pin From Net: NetName=NetDD7_37 Pin=R52-2
+Removed Member From Class: ClassName=Analog Member=R30
+Removed Member From Class: ClassName=Analog Member=R32
+Removed Member From Class: ClassName=Analog Member=R33
+Removed Member From Class: ClassName=Analog Member=R38
+Removed Member From Class: ClassName=Analog Member=R40
+Removed Member From Class: ClassName=Analog Member=R42
+Removed Member From Class: ClassName=MCU Member=R42
+Removed Member From Class: ClassName=MCU Member=R44
+Removed Member From Class: ClassName=MCU Member=R46
+Removed Member From Class: ClassName=MCU Member=R52
+Change Component Footprint: Designator=R23 Old Footprint=R0603 New Footprint=ACAS 0612
+Change Component Footprint: Designator=R24 Old Footprint=R0603 New Footprint=ACAS 0612
+Change Component Footprint: Designator=R25 Old Footprint=R0603 New Footprint=ACAS 0612
+Change Component Footprint: Designator=R26 Old Footprint=R0603 New Footprint=ACAS 0612
+Change Component Footprint: Designator=R28 Old Footprint=R0603 New Footprint=ACAS 0612
+Change Component Footprint: Designator=R30 Old Footprint=R0603 New Footprint=ACAS 0612
+Change Component Comment : Designator=R22 Old Comment=100R New Comment=22 R
+Change Component Comment : Designator=R31 Old Comment=100R New Comment=22 R
+Change Component Comment : Designator=R32 Old Comment=100R New Comment=22 R
+Change Component Comment : Designator=R23 Old Comment=100R New Comment=ACASA100021000P100
+Change Component Comment : Designator=R24 Old Comment=100R New Comment=ACASA100021000P100
+Change Component Comment : Designator=R25 Old Comment=100R New Comment=ACASA100021000P100
+Change Component Comment : Designator=R26 Old Comment=100R New Comment=ACASA100021000P100
+Change Component Comment : Designator=R28 Old Comment=100R New Comment=ACASA100021000P100
+Change Component Comment : Designator=R30 Old Comment=100R New Comment=ACASA100021000P100
+Change Component Designator: OldDesignator=C NewDesignator=R2
+Change component parameters: Designator = "R22" ("R22"); Footprint = "R0603"; UniqueID = "\SIKOQEBP" ("\SIKOQEBP")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R31" ("R31"); Footprint = "R0603"; UniqueID = "\ABKBVEOH" ("\ABKBVEOH")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32" ("R32"); Footprint = "R0603"; UniqueID = "\SGGSPOMX" ("\SGGSPOMX")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23" ("R23"); Footprint = "R0603"; UniqueID = "\FAWTIRAS" ("\FAWTIRAS")
+Change component parameters (AddParameter): Name = "Case"; Value = "0612 (1632 metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Resistor Networks & Arrays"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.vishay.com/docs/28754/acasprof.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Vishay-Beyschlag/ACASA100021000P100?qs=nuXzIS8loXGt0LS72QQVIg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "ACASA100021000P100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R24"); Footprint = "R0603"; UniqueID = "\OVAGYYXD" ("\OVAGYYXD")
+Change component parameters (AddParameter): Name = "Case"; Value = "0612 (1632 metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Resistor Networks & Arrays"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.vishay.com/docs/28754/acasprof.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Vishay-Beyschlag/ACASA100021000P100?qs=nuXzIS8loXGt0LS72QQVIg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "ACASA100021000P100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25" ("R25"); Footprint = "R0603"; UniqueID = "\SZUPGSLK" ("\SZUPGSLK")
+Change component parameters (AddParameter): Name = "Case"; Value = "0612 (1632 metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Resistor Networks & Arrays"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.vishay.com/docs/28754/acasprof.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Vishay-Beyschlag/ACASA100021000P100?qs=nuXzIS8loXGt0LS72QQVIg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "ACASA100021000P100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R26"); Footprint = "R0603"; UniqueID = "\JMLYWKXS" ("\JMLYWKXS")
+Change component parameters (AddParameter): Name = "Case"; Value = "0612 (1632 metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Resistor Networks & Arrays"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.vishay.com/docs/28754/acasprof.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Vishay-Beyschlag/ACASA100021000P100?qs=nuXzIS8loXGt0LS72QQVIg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "ACASA100021000P100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28" ("R28"); Footprint = "R0603"; UniqueID = "\GKVWCQME" ("\GKVWCQME")
+Change component parameters (AddParameter): Name = "Case"; Value = "0612 (1632 metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Resistor Networks & Arrays"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.vishay.com/docs/28754/acasprof.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Vishay-Beyschlag/ACASA100021000P100?qs=nuXzIS8loXGt0LS72QQVIg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "ACASA100021000P100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30" ("R30"); Footprint = "R0603"; UniqueID = "\MWUPXPBJ" ("\MWUPXPBJ")
+Change component parameters (AddParameter): Name = "Case"; Value = "0612 (1632 metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Resistor Networks & Arrays"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.vishay.com/docs/28754/acasprof.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Vishay-Beyschlag/ACASA100021000P100?qs=nuXzIS8loXGt0LS72QQVIg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "ACASA100021000P100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDA3_6 Pin=R23-3
+Added Pin To Net: NetName=D_1 Pin=R23-4
+Added Pin To Net: NetName=NetDA3_7 Pin=R23-5
+Added Pin To Net: NetName=D_2 Pin=R23-6
+Added Pin To Net: NetName=NetDA3_8 Pin=R23-7
+Added Pin To Net: NetName=D_3 Pin=R23-8
+Added Pin To Net: NetName=NetDA3_9 Pin=R24-1
+Added Pin To Net: NetName=D_4 Pin=R24-2
+Added Pin To Net: NetName=NetDA3_10 Pin=R24-3
+Added Pin To Net: NetName=D_5 Pin=R24-4
+Added Pin To Net: NetName=NetDA3_11 Pin=R24-5
+Added Pin To Net: NetName=D_6 Pin=R24-6
+Added Pin To Net: NetName=NetDA3_12 Pin=R24-7
+Added Pin To Net: NetName=D_7 Pin=R24-8
+Added Pin To Net: NetName=NetDA3_13 Pin=R25-1
+Added Pin To Net: NetName=D_8 Pin=R25-2
+Added Pin To Net: NetName=NetDA3_14 Pin=R25-3
+Added Pin To Net: NetName=D_9 Pin=R25-4
+Added Pin To Net: NetName=NetDA3_19 Pin=R25-5
+Added Pin To Net: NetName=D_12 Pin=R25-6
+Added Pin To Net: NetName=NetDA3_20 Pin=R25-7
+Added Pin To Net: NetName=D_13 Pin=R25-8
+Added Pin To Net: NetName=NetDA3_17 Pin=R26-1
+Added Pin To Net: NetName=D_10 Pin=R26-2
+Added Pin To Net: NetName=NetDA3_18 Pin=R26-3
+Added Pin To Net: NetName=D_11 Pin=R26-4
+Added Pin To Net: NetName=DAC_Out Pin=R26-5
+Added Pin To Net: NetName=NetDD7_12 Pin=R26-6
+Added Pin To Net: NetName=Trig_Ref Pin=R26-7
+Added Pin To Net: NetName=NetDD7_13 Pin=R26-8
+Added Pin To Net: NetName=OTR Pin=R28-1
+Added Pin To Net: NetName=NetDD7_10 Pin=R28-2
+Added Pin To Net: NetName=PDWN Pin=R28-3
+Added Pin To Net: NetName=NetDD7_11 Pin=R28-4
+Added Pin To Net: NetName=Sense Pin=R30-1
+Added Pin To Net: NetName=NetDD7_14 Pin=R30-2
+Added Pin To Net: NetName=PWM_LED Pin=R30-3
+Added Pin To Net: NetName=NetDD7_15 Pin=R30-4
+Added Pin To Net: NetName=SWDIO Pin=R31-1
+Added Pin To Net: NetName=NetDD7_36 Pin=R31-2
+Added Pin To Net: NetName=SWCLK Pin=R32-1
+Added Pin To Net: NetName=NetDD7_37 Pin=R32-2
+Added Member To Class: ClassName=Analog Member=Component C51 10p
+Added Member To Class: ClassName=Analog Member=Component C53 JR100
+Added Member To Class: ClassName=Analog Member=Component C57 10 uF
+Added Member To Class: ClassName=Analog Member=Component C59 1u
+Added Member To Class: ClassName=Analog Member=Component C60 0.1u
+Added Member To Class: ClassName=Analog Member=Component C61 1u
+Added Member To Class: ClassName=Analog Member=Component C62 0.1u
+Added Member To Class: ClassName=Analog Member=Component C63 0.1u
+Added Member To Class: ClassName=Analog Member=Component C71 0.1u
+Added Member To Class: ClassName=Analog Member=Component C72 10 uF
+Added Member To Class: ClassName=Analog Member=Component C74 0.1u
+Added Member To Class: ClassName=Analog Member=Component R17 1.5k
+Added Member To Class: ClassName=Analog Member=Component R18 22 R
+Added Member To Class: ClassName=Analog Member=Component R21 0R
+Added Member To Class: ClassName=Analog Member=Component R22 22 R
+Added Member To Class: ClassName=Analog Member=Component R24 ACASA100021000P100
+Added Member To Class: ClassName=Analog Member=Component R25 ACASA100021000P100
+Added Member To Class: ClassName=Analog Member=Component R27 10 k
+Added Member To Class: ClassName=MCU Member=Component R28 ACASA100021000P100
+Added Member To Class: ClassName=Analog Member=Component R29 10 k
+Added Member To Class: ClassName=MCU Member=Component R30 ACASA100021000P100
+Added Member To Class: ClassName=MCU Member=Component R31 22 R
+Added Member To Class: ClassName=MCU Member=Component R32 22 R
+Added Member To Class: ClassName=Analog Member=Component R37 10 k
+Added Member To Class: ClassName=Analog Member=Component R41 10 k
+Added Member To Class: ClassName=MCU Member=Component R49 5k1
+Added Room: Name=Analog
+Added Room: Name=MCU
+Added Room: Name=Power

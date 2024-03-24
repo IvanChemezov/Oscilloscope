@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+Vusb Pin=TP1-1
+Removed Member From Class: ClassName=Analog Member=R51
+Removed Member From Class: ClassName=Analog Member=R52
+Added Pin To Net: NetName=NetF1_1 Pin=TP1-1
+Added Member To Class: ClassName=Analog Member=Component R31 22 R
+Added Member To Class: ClassName=Analog Member=Component R32 22 R

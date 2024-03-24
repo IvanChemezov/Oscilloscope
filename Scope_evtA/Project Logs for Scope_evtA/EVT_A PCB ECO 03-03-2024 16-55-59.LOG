@@ -1,0 +1,12 @@
+Added Member To Class: ClassName=Analog Member=Component C51 JR100
+Added Member To Class: ClassName=Analog Member=Component C53 10p
+Added Member To Class: ClassName=Analog Member=Component C63 0.1u
+Added Member To Class: ClassName=Analog Member=Component C64 10p
+Added Member To Class: ClassName=Analog Member=Component C67 0.1u
+Added Member To Class: ClassName=Analog Member=Component C70 0.1u
+Added Member To Class: ClassName=Analog Member=Component C73 0.1u
+Added Member To Class: ClassName=Analog Member=Component C74 10p
+Added Member To Class: ClassName=MCU Member=Component C82 0.1u
+Added Room: Name=Analog
+Added Room: Name=MCU
+Added Room: Name=Power

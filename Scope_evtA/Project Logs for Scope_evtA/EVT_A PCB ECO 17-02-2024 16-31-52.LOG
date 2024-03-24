@@ -1,0 +1,68 @@
+Removed Member From Class: ClassName=Main Member=C29
+Removed Member From Class: ClassName=Main Member=R40
+Removed Member From Class: ClassName=Main Member=VD7
+Added Component: Designator=T1(PWB1010)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/597/pwb-463529.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Coilcraft/PWB1010LC?qs=ZYnrCdKdyeesEVMGru6ImA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Coilcraft"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "PWB1010LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.5 kHz to 125 MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ2_1 Pin=T1-1
+Added Pin To Net: NetName=NetR33_1 Pin=T1-3
+Added Pin To Net: NetName=GND Pin=T1-4
+Added Pin To Net: NetName=NetR30_1 Pin=T1-6
+Added Member To Class: ClassName=Main Member=Component C9 2p
+Added Member To Class: ClassName=Main Member=Component C22 0.1u
+Added Member To Class: ClassName=Main Member=Component C24 10 uF
+Added Member To Class: ClassName=Main Member=Component C28 10p
+Added Member To Class: ClassName=Power Member=Component C30 0.1u
+Added Member To Class: ClassName=Power Member=Component C32 0.1u
+Added Member To Class: ClassName=Power Member=Component C33 10 uF
+Added Member To Class: ClassName=Power Member=Component C35 0.1u
+Added Member To Class: ClassName=Power Member=Component C36 0.1u
+Added Member To Class: ClassName=Power Member=Component C37 0.1u
+Added Member To Class: ClassName=Power Member=Component C38 0.1u
+Added Member To Class: ClassName=Power Member=Component C40 0.1u
+Added Member To Class: ClassName=Power Member=Component C42 10 uF
+Added Member To Class: ClassName=Power Member=Component C43 0.1u
+Added Member To Class: ClassName=Power Member=Component C44 0.1u
+Added Member To Class: ClassName=Power Member=Component C45 10 uF
+Added Member To Class: ClassName=Power Member=Component C47 10 uF
+Added Member To Class: ClassName=Power Member=Component C48 0.1u
+Added Member To Class: ClassName=Power Member=Component C49 1u
+Added Member To Class: ClassName=Power Member=Component C51 0.1u
+Added Member To Class: ClassName=Power Member=Component C52 10 uF
+Added Member To Class: ClassName=Power Member=Component C53 0.1u
+Added Member To Class: ClassName=Power Member=Component C54 10 uF
+Added Member To Class: ClassName=Power Member=Component C56 0.1u
+Added Member To Class: ClassName=Power Member=Component C57 1u
+Added Member To Class: ClassName=Power Member=Component C58 10 uF
+Added Member To Class: ClassName=Power Member=Component C59 0.1u
+Added Member To Class: ClassName=Main Member=Component R4 *
+Added Member To Class: ClassName=Main Member=Component R5 1.5k
+Added Member To Class: ClassName=Main Member=Component R7 1M
+Added Member To Class: ClassName=Main Member=Component R9 1.5k
+Added Member To Class: ClassName=Main Member=Component R10 1.5k
+Added Member To Class: ClassName=Main Member=Component R12 100R
+Added Member To Class: ClassName=Main Member=Component R13 1.5k
+Added Member To Class: ClassName=Main Member=Component R32 1.5k
+Added Member To Class: ClassName=Power Member=Component R34 22 R
+Added Member To Class: ClassName=Power Member=Component R35 22 R
+Added Member To Class: ClassName=Power Member=Component R37 5k1
+Added Member To Class: ClassName=Power Member=Component R38 5k1
+Added Member To Class: ClassName=Power Member=Component R39 22 R
+Added Member To Class: ClassName=Power Member=Component R42 *
+Added Member To Class: ClassName=Power Member=Component R44 *
+Added Member To Class: ClassName=Power Member=Component R45 *
+Added Member To Class: ClassName=Power Member=Component R46 *
+Added Member To Class: ClassName=Main Member=Component T1 PWB1010LC
+Added Member To Class: ClassName=Power Member=Component U1 TCR15AG33,LF
+Added Member To Class: ClassName=Main Member=Component VD1 TPD2EUSB30ADRTR
+Added Member To Class: ClassName=Main Member=Component VD2 WS2812C
+Added Member To Class: ClassName=Main Member=Component VD3 CDBQR40
+Added Room: Name=Main
+Added Room: Name=Power

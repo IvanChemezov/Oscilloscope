@@ -1,0 +1,154 @@
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=Trigger Pin=R10-2
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=Trigger Pin=R11-2
+Removed Pin From Net: NetName=GNDusb Pin=R34-1
+Removed Member From Class: ClassName=Main Member=C28
+Removed Member From Class: ClassName=Power Member=J3
+Removed Member From Class: ClassName=Main Member=R11
+Removed Member From Class: ClassName=Main Member=R33
+Added Component: Designator=DA3(SOIC-16)
+Add component (AddParameter): Name = "Case"; Value = "SOIC-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Isolated DC/DC Converters - SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/468/RxxCTExxS-3179767.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/RECOM-Power/R05CTE05S-R?qs=7D1LtPJG0i0SUCKLd%252BnSSQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "RECOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "R05CTE05S-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 W, 5V"; VariantName = "[No Variations]"
+Added Component: Designator=J?(USB 3.2 Gen 2)
+Add component (AddParameter): Name = "Case"; Value = "Type C 24 pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Type C 24 pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/837/GCT_06232023_USB4056-3223375.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/GCT/USB4056-03-A?qs=QNEnbhJQKvbZ7hZzgFEugA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Global Connector Technology (GCT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "USB4056-03-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.2"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/315/AOA0000C304-1149620.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Panasonic/ERJ-2RKF2202X?qs=sGAEpiMZZMvdGkrng054t8AJgcdMkx7xGCv6QlnvaAM%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "ERJ-2RHD103X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5k1"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/315/AOA0000C304-1149620.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Panasonic/ERJ-2RKF2202X?qs=sGAEpiMZZMvdGkrng054t8AJgcdMkx7xGCv6QlnvaAM%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "ERJ-2RHD103X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5k1"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/315/AOA0000C334-1314047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Panasonic/ERJ-U02J105X?qs=sGAEpiMZZMvdGkrng054txgTq5MjvbWt4CoE%2F2ATr1A%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "ERJ-U02J105X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 M"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GNDusb Pin=DA3-1
+Added Pin To Net: NetName=GNDusb Pin=DA3-2
+Added Pin To Net: NetName=+Vusb Pin=DA3-3
+Added Pin To Net: NetName=+Vusb Pin=DA3-4
+Added Pin To Net: NetName=GNDusb Pin=DA3-5
+Added Pin To Net: NetName=GNDusb Pin=DA3-6
+Added Pin To Net: NetName=GNDusb Pin=DA3-7
+Added Pin To Net: NetName=GNDusb Pin=DA3-8
+Added Pin To Net: NetName=GND Pin=DA3-9
+Added Pin To Net: NetName=GND Pin=DA3-11
+Added Pin To Net: NetName=GND Pin=DA3-12
+Added Pin To Net: NetName=NetC31_1 Pin=DA3-13
+Added Pin To Net: NetName=NetC31_1 Pin=DA3-14
+Added Pin To Net: NetName=GND Pin=DA3-15
+Added Pin To Net: NetName=GND Pin=DA3-16
+Added Pin To Net: NetName=GNDusb Pin=J?-A1
+Added Pin To Net: NetName=+Vusb Pin=J?-A4
+Added Pin To Net: NetName=+Vusb Pin=J?-A9
+Added Pin To Net: NetName=GNDusb Pin=J?-A12
+Added Pin To Net: NetName=GNDusb Pin=J?-B1
+Added Pin To Net: NetName=+Vusb Pin=J?-B4
+Added Pin To Net: NetName=+Vusb Pin=J?-B9
+Added Pin To Net: NetName=GNDusb Pin=J?-B12
+Added Pin To Net: NetName=GNDusb Pin=R?-2
+Added Pin To Net: NetName=GNDusb Pin=R?-2
+Added Pin To Net: NetName=GNDusb Pin=R?-2
+Added Pin To Net: NetName=NetJ?_A5 Pin=J?-A5
+Added Pin To Net: NetName=NetJ?_A5 Pin=R?-1
+Added Net: Name=NetJ?_A5
+Added Pin To Net: NetName=NetJ?_A6 Pin=J?-A6
+Added Pin To Net: NetName=NetJ?_A6 Pin=J?-B6
+Added Pin To Net: NetName=NetJ?_A6 Pin=R33-1
+Added Net: Name=NetJ?_A6
+Added Pin To Net: NetName=NetJ?_A7 Pin=J?-A7
+Added Pin To Net: NetName=NetJ?_A7 Pin=J?-B7
+Added Pin To Net: NetName=NetJ?_A7 Pin=R32-1
+Added Net: Name=NetJ?_A7
+Added Pin To Net: NetName=NetJ?_B5 Pin=J?-B5
+Added Pin To Net: NetName=NetJ?_B5 Pin=R?-1
+Added Net: Name=NetJ?_B5
+Added Pin To Net: NetName=NetJ?_S1, S2, S3, S4 Pin=R?-1
+Added Pin To Net: NetName=NetJ?_S1, S2, S3, S4 Pin=J?-S1
+Added Pin To Net: NetName=NetJ?_S1, S2, S3, S4 Pin=J?-S2
+Added Pin To Net: NetName=NetJ?_S1, S2, S3, S4 Pin=J?-S3
+Added Pin To Net: NetName=NetJ?_S1, S2, S3, S4 Pin=J?-S4
+Added Net: Name=NetJ?_S1, S2, S3, S4
+Added Member To Class: ClassName=Main Member=Component C9 *
+Added Member To Class: ClassName=Main Member=Component C10 2p
+Added Member To Class: ClassName=Main Member=Component C11 10p
+Added Member To Class: ClassName=Main Member=Component C14 0.1u
+Added Member To Class: ClassName=Main Member=Component C15 10 uF
+Added Member To Class: ClassName=Main Member=Component C16 0.1u
+Added Member To Class: ClassName=Main Member=Component C17 10 uF
+Added Member To Class: ClassName=Main Member=Component C19 0.1u
+Added Member To Class: ClassName=Main Member=Component C21 0.1u
+Added Member To Class: ClassName=Main Member=Component C23 10 uF
+Added Member To Class: ClassName=Main Member=Component C24 0.1u
+Added Member To Class: ClassName=Main Member=Component C26 10p
+Added Member To Class: ClassName=Power Member=Component C30 0.1u
+Added Member To Class: ClassName=Power Member=Component C31 10 uF
+Added Member To Class: ClassName=Power Member=Component C33 10 uF
+Added Member To Class: ClassName=Power Member=Component C34 0.1u
+Added Member To Class: ClassName=Power Member=Component C36 0.1u
+Added Member To Class: ClassName=Power Member=Component C38 10 uF
+Added Member To Class: ClassName=Power Member=Component C39 0.1u
+Added Member To Class: ClassName=Power Member=Component C40 0.1u
+Added Member To Class: ClassName=Power Member=Component C42 0.1u
+Added Member To Class: ClassName=Power Member=Component C43 10 uF
+Added Member To Class: ClassName=Power Member=Component C44 1u
+Added Member To Class: ClassName=Power Member=Component C46 0.1u
+Added Member To Class: ClassName=Power Member=Component C48 0.1u
+Added Member To Class: ClassName=Power Member=Component C50 10 uF
+Added Member To Class: ClassName=Power Member=Component C52 0.1u
+Added Member To Class: ClassName=Power Member=Component C54 1u
+Added Member To Class: ClassName=Power Member=Component C56 0.1u
+Added Member To Class: ClassName=Power Member=Component DA3 R05CTE05S-R
+Added Member To Class: ClassName=Power Member=Component J? USB4056-03-A
+Added Member To Class: ClassName=Main Member=Component R3 10R
+Added Member To Class: ClassName=Main Member=Component R5 10R
+Added Member To Class: ClassName=Main Member=Component R23 1.5k
+Added Member To Class: ClassName=Main Member=Component R25 1.5k
+Added Member To Class: ClassName=Main Member=Component R26 1.5k
+Added Member To Class: ClassName=Main Member=Component R28 1.5k
+Added Member To Class: ClassName=Main Member=Component R30 1.5k
+Added Member To Class: ClassName=Power Member=Component R32 22 R
+Added Member To Class: ClassName=Power Member=Component R35 *
+Added Member To Class: ClassName=Power Member=Component R37 *
+Added Member To Class: ClassName=Power Member=Component R38 10 k
+Added Member To Class: ClassName=Power Member=Component R40 *
+Added Member To Class: ClassName=Power Member=Component R41 *
+Added Member To Class: ClassName=Power Member=Component R? 5k1
+Added Member To Class: ClassName=Power Member=Component R? 5k1
+Added Member To Class: ClassName=Power Member=Component R? 1 M
+Added Room: Name=Main
+Added Room: Name=Power

@@ -1,0 +1,288 @@
+Removed Pin From Net: NetName=NetDA3_6 Pin=R23-3
+Removed Pin From Net: NetName=D_1 Pin=R23-4
+Removed Pin From Net: NetName=NetDA3_7 Pin=R23-5
+Removed Pin From Net: NetName=D_2 Pin=R23-6
+Removed Pin From Net: NetName=NetDA3_8 Pin=R23-7
+Removed Pin From Net: NetName=D_3 Pin=R23-8
+Removed Pin From Net: NetName=NetDA3_9 Pin=R24-1
+Removed Pin From Net: NetName=D_4 Pin=R24-2
+Removed Pin From Net: NetName=NetDA3_10 Pin=R24-3
+Removed Pin From Net: NetName=D_5 Pin=R24-4
+Removed Pin From Net: NetName=NetDA3_11 Pin=R24-5
+Removed Pin From Net: NetName=D_6 Pin=R24-6
+Removed Pin From Net: NetName=NetDA3_12 Pin=R24-7
+Removed Pin From Net: NetName=D_7 Pin=R24-8
+Removed Pin From Net: NetName=NetDA3_13 Pin=R25-1
+Removed Pin From Net: NetName=D_8 Pin=R25-2
+Removed Pin From Net: NetName=NetDA3_14 Pin=R25-3
+Removed Pin From Net: NetName=D_9 Pin=R25-4
+Removed Pin From Net: NetName=NetDA3_19 Pin=R25-5
+Removed Pin From Net: NetName=D_12 Pin=R25-6
+Removed Pin From Net: NetName=NetDA3_20 Pin=R25-7
+Removed Pin From Net: NetName=D_13 Pin=R25-8
+Removed Pin From Net: NetName=NetDA3_17 Pin=R26-1
+Removed Pin From Net: NetName=D_10 Pin=R26-2
+Removed Pin From Net: NetName=NetDA3_18 Pin=R26-3
+Removed Pin From Net: NetName=D_11 Pin=R26-4
+Removed Pin From Net: NetName=DAC_Out Pin=R26-5
+Removed Pin From Net: NetName=NetDD7_12 Pin=R26-6
+Removed Pin From Net: NetName=Trig_Ref Pin=R26-7
+Removed Pin From Net: NetName=NetDD7_13 Pin=R26-8
+Removed Pin From Net: NetName=OTR Pin=R28-1
+Removed Pin From Net: NetName=NetDD7_10 Pin=R28-2
+Removed Pin From Net: NetName=PDWN Pin=R28-3
+Removed Pin From Net: NetName=NetDD7_11 Pin=R28-4
+Removed Pin From Net: NetName=Sense Pin=R30-1
+Removed Pin From Net: NetName=NetDD7_14 Pin=R30-2
+Removed Pin From Net: NetName=PWM_LED Pin=R30-3
+Removed Pin From Net: NetName=NetDD7_15 Pin=R30-4
+Removed Member From Class: ClassName=MCU Member=R28
+Removed Member From Class: ClassName=MCU Member=R30
+Change Component Footprint: Designator=R23 Old Footprint=ACAS 0612 New Footprint=R0603
+Change Component Footprint: Designator=R24 Old Footprint=ACAS 0612 New Footprint=R0603
+Change Component Footprint: Designator=R25 Old Footprint=ACAS 0612 New Footprint=R0603
+Change Component Footprint: Designator=R26 Old Footprint=ACAS 0612 New Footprint=R0603
+Change Component Footprint: Designator=R28 Old Footprint=ACAS 0612 New Footprint=R0603
+Change Component Footprint: Designator=R30 Old Footprint=ACAS 0612 New Footprint=R0603
+Change Component Comment : Designator=R23 Old Comment=ACASA100021000P100 New Comment=22 R
+Change Component Comment : Designator=R24 Old Comment=ACASA100021000P100 New Comment=22 R
+Change Component Comment : Designator=R25 Old Comment=ACASA100021000P100 New Comment=22 R
+Change Component Comment : Designator=R26 Old Comment=ACASA100021000P100 New Comment=22 R
+Change Component Comment : Designator=R28 Old Comment=ACASA100021000P100 New Comment=22 R
+Change Component Comment : Designator=R30 Old Comment=ACASA100021000P100 New Comment=22 R
+Change Component Designator: OldDesignator=R31 NewDesignator=R51
+Change Component Designator: OldDesignator=R32 NewDesignator=R52
+Change component parameters: Designator = "R23" ("R23"); Footprint = "ACAS 0612"; UniqueID = "\DYCXZTQB" ("\DYCXZTQB")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R24"); Footprint = "ACAS 0612"; UniqueID = "\RQULLZSX" ("\RQULLZSX")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25" ("R25"); Footprint = "ACAS 0612"; UniqueID = "\WGHXACSQ" ("\WGHXACSQ")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R26"); Footprint = "ACAS 0612"; UniqueID = "\IWTRSYNJ" ("\IWTRSYNJ")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28" ("R28"); Footprint = "ACAS 0612"; UniqueID = "\HANGVXHY" ("\HANGVXHY")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30" ("R30"); Footprint = "ACAS 0612"; UniqueID = "\ACLYFJFW" ("\ACLYFJFW")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Added Component: Designator=R31(R0603)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Added Component: Designator=R32(R0603)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Added Component: Designator=R33(R0603)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Added Component: Designator=R35(R0603)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Added Component: Designator=R36(R0603)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Added Component: Designator=R38(R0603)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Added Component: Designator=R39(R0603)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Added Component: Designator=R40(R0603)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Added Component: Designator=R42(R0603)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Added Component: Designator=R43(R0603)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Added Component: Designator=R44(R0603)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Added Component: Designator=R45(R0603)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Added Component: Designator=R46(R0603)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Added Component: Designator=R47(R0603)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDA3_6 Pin=R24-1
+Added Pin To Net: NetName=D_1 Pin=R24-2
+Added Pin To Net: NetName=NetDA3_7 Pin=R25-1
+Added Pin To Net: NetName=D_2 Pin=R25-2
+Added Pin To Net: NetName=NetDA3_8 Pin=R26-1
+Added Pin To Net: NetName=D_3 Pin=R26-2
+Added Pin To Net: NetName=NetDA3_9 Pin=R28-1
+Added Pin To Net: NetName=D_4 Pin=R28-2
+Added Pin To Net: NetName=NetDA3_10 Pin=R30-1
+Added Pin To Net: NetName=D_5 Pin=R30-2
+Added Pin To Net: NetName=NetDA3_11 Pin=R31-1
+Added Pin To Net: NetName=D_6 Pin=R31-2
+Added Pin To Net: NetName=NetDA3_12 Pin=R32-1
+Added Pin To Net: NetName=D_7 Pin=R32-2
+Added Pin To Net: NetName=NetDA3_13 Pin=R33-1
+Added Pin To Net: NetName=D_8 Pin=R33-2
+Added Pin To Net: NetName=NetDA3_14 Pin=R35-1
+Added Pin To Net: NetName=D_9 Pin=R35-2
+Added Pin To Net: NetName=NetDA3_17 Pin=R36-1
+Added Pin To Net: NetName=D_10 Pin=R36-2
+Added Pin To Net: NetName=NetDA3_18 Pin=R38-1
+Added Pin To Net: NetName=D_11 Pin=R38-2
+Added Pin To Net: NetName=NetDA3_19 Pin=R39-1
+Added Pin To Net: NetName=D_12 Pin=R39-2
+Added Pin To Net: NetName=NetDA3_20 Pin=R40-1
+Added Pin To Net: NetName=D_13 Pin=R40-2
+Added Pin To Net: NetName=OTR Pin=R42-1
+Added Pin To Net: NetName=NetDD7_10 Pin=R42-2
+Added Pin To Net: NetName=PDWN Pin=R43-1
+Added Pin To Net: NetName=NetDD7_11 Pin=R43-2
+Added Pin To Net: NetName=DAC_Out Pin=R44-1
+Added Pin To Net: NetName=NetDD7_12 Pin=R44-2
+Added Pin To Net: NetName=Trig_Ref Pin=R45-1
+Added Pin To Net: NetName=NetDD7_13 Pin=R45-2
+Added Pin To Net: NetName=Sense Pin=R46-1
+Added Pin To Net: NetName=NetDD7_14 Pin=R46-2
+Added Pin To Net: NetName=PWM_LED Pin=R47-1
+Added Pin To Net: NetName=NetDD7_15 Pin=R47-2
+Added Member To Class: ClassName=Analog Member=Component R28 22 R
+Added Member To Class: ClassName=Analog Member=Component R30 22 R
+Added Member To Class: ClassName=Analog Member=Component R31 22 R
+Added Member To Class: ClassName=Analog Member=Component R32 22 R
+Added Member To Class: ClassName=Analog Member=Component R33 22 R
+Added Member To Class: ClassName=Analog Member=Component R35 22 R
+Added Member To Class: ClassName=Analog Member=Component R36 22 R
+Added Member To Class: ClassName=Analog Member=Component R38 22 R
+Added Member To Class: ClassName=Analog Member=Component R39 22 R
+Added Member To Class: ClassName=Analog Member=Component R40 22 R
+Added Member To Class: ClassName=MCU Member=Component R42 22 R
+Added Member To Class: ClassName=MCU Member=Component R43 22 R
+Added Member To Class: ClassName=MCU Member=Component R44 22 R
+Added Member To Class: ClassName=MCU Member=Component R45 22 R
+Added Member To Class: ClassName=MCU Member=Component R46 22 R
+Added Member To Class: ClassName=MCU Member=Component R47 22 R

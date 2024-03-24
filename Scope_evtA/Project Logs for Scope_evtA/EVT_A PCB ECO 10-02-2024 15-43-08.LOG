@@ -1,0 +1,41 @@
+Removed Member From Class: ClassName=Power Member=R21
+Removed Member From Class: ClassName=Power Member=R24
+Removed Member From Class: ClassName=Power Member=TP3
+Added Member To Class: ClassName=Digital Member=Component C8 0.1u
+Added Member To Class: ClassName=Digital Member=Component C9 *
+Added Member To Class: ClassName=Digital Member=Component C12 10p
+Added Member To Class: ClassName=Digital Member=Component C13 4.7u
+Added Member To Class: ClassName=Digital Member=Component C14 0.1u
+Added Member To Class: ClassName=Digital Member=Component C16 0.1u
+Added Member To Class: ClassName=Digital Member=Component C18 10p
+Added Member To Class: ClassName=Digital Member=Component C19 10p
+Added Member To Class: ClassName=Power Member=Component C24 *
+Added Member To Class: ClassName=Power Member=Component C25 *
+Added Member To Class: ClassName=Digital Member=Component R1 0R
+Added Member To Class: ClassName=Digital Member=Component R3 1 k
+Added Member To Class: ClassName=Digital Member=Component R7 1 k
+Added Member To Class: ClassName=Digital Member=Component R9 10R
+Added Member To Class: ClassName=Digital Member=Component R10 0R
+Added Member To Class: ClassName=Digital Member=Component R11 1 k
+Added Member To Class: ClassName=Digital Member=Component R12 0R
+Added Member To Class: ClassName=Digital Member=Component R13 1 k
+Added Member To Class: ClassName=Digital Member=Component R16 1 k
+Added Member To Class: ClassName=Digital Member=Component R18 10 k
+Added Member To Class: ClassName=Digital Member=Component R20 1 k
+Added Member To Class: ClassName=Digital Member=Component R21 1 k
+Added Member To Class: ClassName=Digital Member=Component R22 1 k
+Added Member To Class: ClassName=Digital Member=Component R23 1 k
+Added Member To Class: ClassName=Digital Member=Component R24 100R
+Added Member To Class: ClassName=Power Member=Component R25 22 R
+Added Member To Class: ClassName=Power Member=Component R26 22 R
+Added Member To Class: ClassName=Power Member=Component R27 1 M
+Added Member To Class: ClassName=Power Member=Component R28 *
+Added Member To Class: ClassName=Power Member=Component R29 *
+Added Member To Class: ClassName=Digital Member=Component TP2 5117
+Added Member To Class: ClassName=Digital Member=Component TP3 5117
+Added Member To Class: ClassName=Power Member=Component TP4 5117
+Added Member To Class: ClassName=Digital Member=Component VD2 150044M155260
+Added Member To Class: ClassName=Power Member=Component VD4 8231706A
+Added Room: Name=Digital
+Added Room: Name=Functional
+Added Room: Name=Power

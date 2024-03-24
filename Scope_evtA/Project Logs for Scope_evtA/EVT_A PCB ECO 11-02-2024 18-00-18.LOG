@@ -1,0 +1,41 @@
+Removed Member From Class: ClassName=Power Member=C24
+Change Component Footprint: Designator=TP1 Old Footprint=Micro_test_pad New Footprint=36-5117-ND
+Change Component Footprint: Designator=TP2 Old Footprint=Micro_test_pad New Footprint=36-5117-ND
+Change Component Footprint: Designator=TP3 Old Footprint=Micro_test_pad New Footprint=36-5117-ND
+Change Component Footprint: Designator=TP4 Old Footprint=Micro_test_pad New Footprint=36-5117-ND
+Added Member To Class: ClassName=Main Member=Component C23 0.1u
+Added Member To Class: ClassName=Main Member=Component C25 10p
+Added Member To Class: ClassName=Main Member=Component C26 10p
+Added Member To Class: ClassName=Power Member=Component C39 0.1u
+Added Member To Class: ClassName=Power Member=Component C41 0.1u
+Added Member To Class: ClassName=Power Member=Component C42 4.7u
+Added Member To Class: ClassName=Power Member=Component C43 0.1u
+Added Member To Class: ClassName=Power Member=Component C45 4.7u
+Added Member To Class: ClassName=Power Member=Component C47 0.1u
+Added Member To Class: ClassName=Power Member=Component C49 0.1u
+Added Member To Class: ClassName=Power Member=Component C51 4.7u
+Added Member To Class: ClassName=Power Member=Component L5 BLM15PX471SN1D
+Added Member To Class: ClassName=Power Member=Component L6 BLM15PX471SN1D
+Added Member To Class: ClassName=Main Member=Component R3 1.5k
+Added Member To Class: ClassName=Main Member=Component R6 1.5k
+Added Member To Class: ClassName=Main Member=Component R10 1.5k
+Added Member To Class: ClassName=Main Member=Component R11 1.5k
+Added Member To Class: ClassName=Main Member=Component R12 10 k
+Added Member To Class: ClassName=Main Member=Component R15 1.5k
+Added Member To Class: ClassName=Main Member=Component R17 1.5k
+Added Member To Class: ClassName=Main Member=Component R19 1.5k
+Added Member To Class: ClassName=Main Member=Component R20 1.5k
+Added Member To Class: ClassName=Main Member=Component R21 1.5k
+Added Member To Class: ClassName=Main Member=Component R22 1.5k
+Added Member To Class: ClassName=Main Member=Component R24 1.5k
+Added Member To Class: ClassName=Main Member=Component R26 1.5k
+Added Member To Class: ClassName=Main Member=Component R28 100R
+Added Member To Class: ClassName=Main Member=Component R30 1.5k
+Added Member To Class: ClassName=Power Member=Component R34 1.5k
+Added Member To Class: ClassName=Power Member=Component R37 1.5k
+Added Member To Class: ClassName=Power Member=Component R38 1.5k
+Added Member To Class: ClassName=Main Member=Component TP4 5117
+Added Member To Class: ClassName=Main Member=Component VD1 WS2812C
+Added Member To Class: ClassName=Power Member=Component VD2 CDBQR40
+Added Room: Name=Main
+Added Room: Name=Power

@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=+Vin Pin=R8-2
+Removed Pin From Net: NetName=USB_N Pin=R9-2
+Removed Pin From Net: NetName=USB_P Pin=R10-2
+Removed Member From Class: ClassName=Power Member=R19
+Removed Member From Class: ClassName=Power Member=R20
+Removed Member From Class: ClassName=Power Member=R24
+Added Pin To Net: NetName=NetC3_1 Pin=R8-2
+Added Pin To Net: NetName=NetDD1_11 Pin=R9-2
+Added Pin To Net: NetName=NetDD1_10 Pin=R10-2
+Added Member To Class: ClassName=Power Member=Component R8 NC
+Added Member To Class: ClassName=Power Member=Component R9 NC
+Added Member To Class: ClassName=Power Member=Component R10 NC
+Added Member To Class: ClassName=Power Member=Component R12 100k
+Added Member To Class: ClassName=Power Member=Component R13 100k
+Added Member To Class: ClassName=Power Member=Component R14 10k
+Added Member To Class: ClassName=Power Member=Component R15 20k
+Added Member To Class: ClassName=Power Member=Component R17 5k1
+Added Member To Class: ClassName=Power Member=Component R18 1M
+Added Member To Class: ClassName=Processing Member=Component R21 1.5k
+Added Member To Class: ClassName=Processing Member=Component R22 22 R
+Added Member To Class: ClassName=Processing Member=Component R23 *
+Added Member To Class: ClassName=Processing Member=Component R26 1M
+Added Member To Class: ClassName=Processing Member=Component R27 10 k
+Added Member To Class: ClassName=Processing Member=Component R28 10 k
+Added Member To Class: ClassName=Processing Member=Component R29 10 k
+Added Member To Class: ClassName=Processing Member=Component R30 1.5k
+Added Member To Class: ClassName=Processing Member=Component R31 1.5k
+Added Member To Class: ClassName=Processing Member=Component R33 1.5k
+Added Member To Class: ClassName=Processing Member=Component R35 1.5k
+Added Member To Class: ClassName=Processing Member=Component R36 1.5k
+Added Member To Class: ClassName=Processing Member=Component R37 1.5k
+Added Member To Class: ClassName=Processing Member=Component R38 1.5k
+Added Member To Class: ClassName=Processing Member=Component R40 1.5k
+Added Member To Class: ClassName=Processing Member=Component R41 20k
+Added Member To Class: ClassName=Processing Member=Component R42 1.5k
+Added Member To Class: ClassName=Processing Member=Component R44 1.5k
+Added Member To Class: ClassName=Processing Member=Component R46 1.5k
+Added Member To Class: ClassName=Processing Member=Component R48 1.5k
+Added Member To Class: ClassName=Processing Member=Component R50 1.5k
+Added Member To Class: ClassName=Processing Member=Component R52 22 R
+Added Room: Name=Power
+Added Room: Name=Processing

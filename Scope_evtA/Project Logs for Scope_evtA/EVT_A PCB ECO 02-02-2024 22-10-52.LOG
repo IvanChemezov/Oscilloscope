@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C1 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=C4 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=C5 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=C6 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=C7 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=C8 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=C9 Old Footprint=C0603 New Footprint=C0402
+Added Member To Class: ClassName=Digital Member=Component TP3 5117
+Added Member To Class: ClassName=Digital Member=Component TP4 5117
+Added Room: Name=Digital

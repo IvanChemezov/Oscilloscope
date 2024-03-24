@@ -1,0 +1,21 @@
+Added Component: Designator=TP4(Micro_test_pad)
+Add component (AddParameter): Name = "Case"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Test point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://ru.mouser.com/datasheet/2/215/5115_5119-744073.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Keystone-Electronics/5117?qs=%2Fha2pyFadujSuVybhyFc6oqj%252BXCGMBBx2uPmIz4OBqU%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "5117"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "36-5117"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=TP4-1
+Added Member To Class: ClassName=Digital Member=Component C22 4.7u
+Added Member To Class: ClassName=Digital Member=Component C24 100n
+Added Member To Class: ClassName=Digital Member=Component R15 22 R
+Added Member To Class: ClassName=Digital Member=Component R17 22 R
+Added Member To Class: ClassName=Digital Member=Component R18 560R
+Added Member To Class: ClassName=Digital Member=Component TP2 5117
+Added Member To Class: ClassName=Digital Member=Component TP3 5117
+Added Member To Class: ClassName=Digital Member=Component TP4 5117
+Added Member To Class: ClassName=Digital Member=Component VD3 8231706A
+Added Room: Name=Digital

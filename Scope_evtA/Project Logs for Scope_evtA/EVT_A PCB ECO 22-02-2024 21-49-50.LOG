@@ -1,0 +1,125 @@
+Removed Pin From Net: NetName=GND Pin=TP4-1
+Removed Member From Class: ClassName=Processing Member=C38
+Removed Member From Class: ClassName=Processing Member=DD2
+Added Pin To Net: NetName=GNDusb Pin=TP4-1
+Added Member To Class: ClassName=Power Member=Component C1 10 uF
+Added Member To Class: ClassName=Power Member=Component C2 0.1u
+Added Member To Class: ClassName=Power Member=Component C3 10 uF
+Added Member To Class: ClassName=Power Member=Component C4 0.1u
+Added Member To Class: ClassName=Power Member=Component C5 2.2n
+Added Member To Class: ClassName=Power Member=Component C6 390p
+Added Member To Class: ClassName=Power Member=Component C7 0.1u
+Added Member To Class: ClassName=Power Member=Component C8 0.1u
+Added Member To Class: ClassName=Power Member=Component C9 0.1u
+Added Member To Class: ClassName=Power Member=Component C10 0.1u
+Added Member To Class: ClassName=Power Member=Component C11 0.1u
+Added Member To Class: ClassName=Power Member=Component C12 10 uF
+Added Member To Class: ClassName=Power Member=Component C13 0.1u
+Added Member To Class: ClassName=Power Member=Component C14 1u
+Added Member To Class: ClassName=Power Member=Component C15 10 uF
+Added Member To Class: ClassName=Power Member=Component C16 0.1u
+Added Member To Class: ClassName=Power Member=Component C17 10 uF
+Added Member To Class: ClassName=Power Member=Component C18 10 uF
+Added Member To Class: ClassName=Power Member=Component C19 0.1u
+Added Member To Class: ClassName=Power Member=Component C20 0.1u
+Added Member To Class: ClassName=Power Member=Component C21 10 uF
+Added Member To Class: ClassName=Power Member=Component C22 1u
+Added Member To Class: ClassName=Power Member=Component C23 0.1u
+Added Member To Class: ClassName=Power Member=Component C24 1u
+Added Member To Class: ClassName=Power Member=Component C25 10 uF
+Added Member To Class: ClassName=Power Member=Component C26 1u
+Added Member To Class: ClassName=Power Member=Component C27 0.1u
+Added Member To Class: ClassName=Power Member=Component C28 2.2n
+Added Member To Class: ClassName=Power Member=Component C29 390p
+Added Member To Class: ClassName=Power Member=Component C30 10 uF
+Added Member To Class: ClassName=Power Member=Component C31 10 uF
+Added Member To Class: ClassName=Power Member=Component C32 0.1u
+Added Member To Class: ClassName=Power Member=Component C33 1u
+Added Member To Class: ClassName=Power Member=Component C34 10 uF
+Added Member To Class: ClassName=Power Member=Component C35 0.1u
+Added Member To Class: ClassName=Power Member=Component C36 10 uF
+Added Member To Class: ClassName=Power Member=Component C37 0.1u
+Added Member To Class: ClassName=Processing Member=Component C39 1u
+Added Member To Class: ClassName=Processing Member=Component C40 0.1u
+Added Member To Class: ClassName=Processing Member=Component C41 0.1u
+Added Member To Class: ClassName=Processing Member=Component C42 1u
+Added Member To Class: ClassName=Processing Member=Component C43 0.1u
+Added Member To Class: ClassName=Processing Member=Component C44 1u
+Added Member To Class: ClassName=Processing Member=Component C45 0.1u
+Added Member To Class: ClassName=Processing Member=Component C46 1u
+Added Member To Class: ClassName=Processing Member=Component C47 0.1u
+Added Member To Class: ClassName=Processing Member=Component C48 0.1u
+Added Member To Class: ClassName=Processing Member=Component C49 2p
+Added Member To Class: ClassName=Processing Member=Component C50 10p
+Added Member To Class: ClassName=Processing Member=Component C51 10p
+Added Member To Class: ClassName=Processing Member=Component C52 JR100
+Added Member To Class: ClassName=Processing Member=Component C53 2p
+Added Member To Class: ClassName=Processing Member=Component C54 10p
+Added Member To Class: ClassName=Processing Member=Component C55 10p
+Added Member To Class: ClassName=Processing Member=Component C56 *
+Added Member To Class: ClassName=Processing Member=Component C57 0.1u
+Added Member To Class: ClassName=Processing Member=Component C58 1u
+Added Member To Class: ClassName=Processing Member=Component C59 10 uF
+Added Member To Class: ClassName=Processing Member=Component C60 0.1u
+Added Member To Class: ClassName=Processing Member=Component C61 0.1u
+Added Member To Class: ClassName=Processing Member=Component C62 10 uF
+Added Member To Class: ClassName=Processing Member=Component C63 0.1u
+Added Member To Class: ClassName=Processing Member=Component C64 0.1u
+Added Member To Class: ClassName=Processing Member=Component C65 10 uF
+Added Member To Class: ClassName=Processing Member=Component C66 0.1u
+Added Member To Class: ClassName=Processing Member=Component C67 0.1u
+Added Member To Class: ClassName=Processing Member=Component C68 0.1u
+Added Member To Class: ClassName=Processing Member=Component C69 0.1u
+Added Member To Class: ClassName=Processing Member=Component C70 10 uF
+Added Member To Class: ClassName=Processing Member=Component C71 0.1u
+Added Member To Class: ClassName=Processing Member=Component C72 0.1u
+Added Member To Class: ClassName=Processing Member=Component C73 10p
+Added Member To Class: ClassName=Processing Member=Component C74 10p
+Added Member To Class: ClassName=Processing Member=Component C75 10p
+Added Member To Class: ClassName=Power Member=Component DA1 R05CTE05S-R
+Added Member To Class: ClassName=Processing Member=Component DA3 AD9245BCPZ-20
+Added Member To Class: ClassName=Power Member=Component DD1 ISOUSB111DWXR
+Added Member To Class: ClassName=Processing Member=Component DD3 STM32G431CBU3
+Added Member To Class: ClassName=Power Member=Component J1 USB4056-03-A
+Added Member To Class: ClassName=Processing Member=Component J3 112640
+Added Member To Class: ClassName=Power Member=Component R1 22 R
+Added Member To Class: ClassName=Power Member=Component R2 22 R
+Added Member To Class: ClassName=Power Member=Component R3 1 M
+Added Member To Class: ClassName=Power Member=Component R4 5k1
+Added Member To Class: ClassName=Power Member=Component R5 5k1
+Added Member To Class: ClassName=Power Member=Component R6 22 R
+Added Member To Class: ClassName=Power Member=Component R7 22 R
+Added Member To Class: ClassName=Power Member=Component R8 1M
+Added Member To Class: ClassName=Power Member=Component R9 100k
+Added Member To Class: ClassName=Power Member=Component R10 100k
+Added Member To Class: ClassName=Power Member=Component R11 10k
+Added Member To Class: ClassName=Power Member=Component R12 20k
+Added Member To Class: ClassName=Power Member=Component R13 5k1
+Added Member To Class: ClassName=Power Member=Component R14 100k
+Added Member To Class: ClassName=Power Member=Component R15 5k1
+Added Member To Class: ClassName=Power Member=Component R16 1M
+Added Member To Class: ClassName=Processing Member=Component R40 1.5k
+Added Member To Class: ClassName=Processing Member=Component R41 1.5k
+Added Member To Class: ClassName=Processing Member=Component R42 1.5k
+Added Member To Class: ClassName=Processing Member=Component R43 1.5k
+Added Member To Class: ClassName=Processing Member=Component R44 1.5k
+Added Member To Class: ClassName=Processing Member=Component R45 1.5k
+Added Member To Class: ClassName=Processing Member=Component R46 1.5k
+Added Member To Class: ClassName=Processing Member=Component R47 1.5k
+Added Member To Class: ClassName=Processing Member=Component R48 1.5k
+Added Member To Class: ClassName=Processing Member=Component R49 1.5k
+Added Member To Class: ClassName=Processing Member=Component R50 22 R
+Added Member To Class: ClassName=Processing Member=Component R51 22 R
+Added Member To Class: ClassName=Processing Member=Component R52 22 R
+Added Member To Class: ClassName=Processing Member=Component R53 1.5k
+Added Member To Class: ClassName=Processing Member=Component R54 1.5k
+Added Member To Class: ClassName=Power Member=Component TP1 5117
+Added Member To Class: ClassName=Power Member=Component TP4 5117
+Added Member To Class: ClassName=Power Member=Component VD1 TPD2EUSB30ADRTR
+Added Member To Class: ClassName=Power Member=Component VD2 CDBQR40
+Added Member To Class: ClassName=Power Member=Component VD3 CDBQR40
+Added Member To Class: ClassName=Processing Member=Component VD5 CDBQR40
+Added Member To Class: ClassName=Processing Member=Component VD6 CDBQR40
+Added Member To Class: ClassName=Processing Member=Component VD7 WS2812C
+Added Room: Name=Power
+Added Room: Name=Processing

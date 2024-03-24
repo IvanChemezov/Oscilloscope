@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetF1_1 Pin=TP1-1
+Added Pin To Net: NetName=+Vusb Pin=TP1-1
+Added Room: Name=Analog
+Added Room: Name=MCU
+Added Room: Name=Power

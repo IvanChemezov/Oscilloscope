@@ -1,0 +1,773 @@
+Removed Pin From Net: NetName=+Vin Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=NetC28_1 Pin=C30-1
+Removed Pin From Net: NetName=NetC28_2 Pin=C30-2
+Removed Pin From Net: NetName=+Vin Pin=C32-1
+Removed Pin From Net: NetName=GND Pin=C35-1
+Removed Pin From Net: NetName=+4.5V Pin=C35-2
+Removed Pin From Net: NetName=-4.5V Pin=C37-1
+Removed Pin From Net: NetName=GND Pin=C39-2
+Removed Pin From Net: NetName=+Vin Pin=C40-1
+Removed Pin From Net: NetName=+Vin Pin=C41-1
+Removed Pin From Net: NetName=GND Pin=C41-2
+Removed Pin From Net: NetName=GND Pin=C43-2
+Removed Pin From Net: NetName=GND Pin=C44-1
+Removed Pin From Net: NetName=+3.3VDC Pin=C45-1
+Removed Pin From Net: NetName=+3.3VDC Pin=C46-1
+Removed Pin From Net: NetName=+3.3VDC Pin=C47-1
+Removed Pin From Net: NetName=+Vin Pin=C48-1
+Removed Pin From Net: NetName=+Vin Pin=C49-1
+Removed Pin From Net: NetName=GND Pin=C50-1
+Removed Pin From Net: NetName=NetC51_1 Pin=C52-1
+Removed Pin From Net: NetName=+3.3VADC Pin=C53-1
+Removed Pin From Net: NetName=GND Pin=C53-2
+Removed Pin From Net: NetName=NetC28_1 Pin=J3-1
+Removed Pin From Net: NetName=NetC28_2 Pin=J3-4
+Removed Pin From Net: NetName=NetC33_1 Pin=L1-1
+Removed Pin From Net: NetName=NetDD2_A3, B3 Pin=L1-2
+Removed Pin From Net: NetName=+Vin Pin=L2-1
+Removed Pin From Net: NetName=NetC33_1 Pin=L2-2
+Removed Pin From Net: NetName=NetDD2_A2 Pin=L3-1
+Removed Pin From Net: NetName=GND Pin=L3-2
+Removed Pin From Net: NetName=+Vin Pin=L4-1
+Removed Pin From Net: NetName=NetC51_1 Pin=L5-1
+Removed Pin From Net: NetName=+3.3VADC Pin=L5-2
+Removed Pin From Net: NetName=Vocm Pin=L6-2
+Removed Pin From Net: NetName=NetDD2_D4 Pin=R35-1
+Removed Pin From Net: NetName=GND Pin=R35-2
+Removed Pin From Net: NetName=NetDD2_E2 Pin=R36-1
+Removed Pin From Net: NetName=NetDD2_E1 Pin=R37-2
+Removed Pin From Net: NetName=-4.5V Pin=R38-2
+Removed Pin From Net: NetName=NetDD2_E4 Pin=R39-2
+Removed Pin From Net: NetName=+3.3VADC Pin=R40-2
+Removed Pin From Net: NetName=GND Pin=R41-2
+Removed Pin From Net: NetName=+Vin Pin=TP4-1
+Removed Pin From Net: NetName=+3.3VDC Pin=U1-1A
+Removed Pin From Net: NetName=+3.3VDC Pin=U1-1B
+Removed Pin From Net: NetName=NetC51_1 Pin=U2-1A
+Removed Pin From Net: NetName=NetC51_1 Pin=U2-1B
+Removed Pin From Net: NetName=+Vin Pin=U2-2A
+Removed Pin From Net: NetName=+Vin Pin=U2-2B
+Change Component Footprint: Designator=J3 Old Footprint=629004113921 New Footprint=R0402
+Change Component Footprint: Designator=L3 Old Footprint=L0603 New Footprint=R0402
+Change Component Footprint: Designator=L6 Old Footprint=R0402 New Footprint=L0603
+Change Component Comment : Designator=C43 Old Comment=0.1u New Comment=1u
+Change Component Comment : Designator=C30 Old Comment=0.1u New Comment=10 uF
+Change Component Comment : Designator=C32 Old Comment=0.1u New Comment=10 uF
+Change Component Comment : Designator=C34 Old Comment=0.1u New Comment=10 uF
+Change Component Comment : Designator=C36 Old Comment=0.1u New Comment=10 uF
+Change Component Comment : Designator=C37 Old Comment=0.1u New Comment=10 uF
+Change Component Comment : Designator=C46 Old Comment=0.1u New Comment=10 uF
+Change Component Comment : Designator=C49 Old Comment=0.1u New Comment=10 uF
+Change Component Comment : Designator=R35 Old Comment=1.5k New Comment=10 k
+Change Component Comment : Designator=R37 Old Comment=1.5k New Comment=10 k
+Change Component Comment : Designator=R34 Old Comment=1.5k New Comment=*
+Change Component Comment : Designator=R36 Old Comment=1.5k New Comment=*
+Change Component Comment : Designator=R38 Old Comment=1.5k New Comment=*
+Change Component Comment : Designator=R39 Old Comment=1.5k New Comment=*
+Change Component Comment : Designator=C50 Old Comment=1u New Comment=0.1u
+Change Component Comment : Designator=C44 Old Comment=1u New Comment=10 uF
+Change Component Comment : Designator=C45 Old Comment=4.7u New Comment=0.1u
+Change Component Comment : Designator=C48 Old Comment=4.7u New Comment=0.1u
+Change Component Comment : Designator=C51 Old Comment=4.7u New Comment=0.1u
+Change Component Comment : Designator=C53 Old Comment=4.7u New Comment=1u
+Change Component Comment : Designator=C19 Old Comment=4.7u New Comment=10 uF
+Change Component Comment : Designator=C22 Old Comment=4.7u New Comment=10 uF
+Change Component Comment : Designator=C40 Old Comment=4.7u New Comment=10 uF
+Change Component Comment : Designator=C42 Old Comment=4.7u New Comment=10 uF
+Change Component Comment : Designator=R40 Old Comment=10 k New Comment=*
+Change Component Comment : Designator=R41 Old Comment=10 k New Comment=*
+Change Component Comment : Designator=C29 Old Comment=10u New Comment=0.1u
+Change Component Comment : Designator=C31 Old Comment=10u New Comment=0.1u
+Change Component Comment : Designator=C33 Old Comment=10u New Comment=0.1u
+Change Component Comment : Designator=C14 Old Comment=10u New Comment=10 uF
+Change Component Comment : Designator=C16 Old Comment=10u New Comment=10 uF
+Change Component Comment : Designator=C27 Old Comment=10u New Comment=10 uF
+Change Component Comment : Designator=C28 Old Comment=10u New Comment=10 uF
+Change Component Comment : Designator=J3 Old Comment=629004113921 New Comment=
+Change Component Comment : Designator=L6 Old Comment=BLM15PX471SN1D New Comment=LQM18DZ470M70L
+Change Component Comment : Designator=L3 Old Comment=LQM18DZ470M70L New Comment=BLM15PX471SN1D
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C0402"; UniqueID = "\SSAXJVUP" ("\SSAXJVUP")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "C0402"; UniqueID = "\SDXGHRHI" ("\SDXGHRHI")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "C0402"; UniqueID = "\DTWGPQWX" ("\DTWGPQWX")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "C0402"; UniqueID = "\AZIBKENL" ("\AZIBKENL")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "C0402"; UniqueID = "\PKPDCLXL" ("\PKPDCLXL")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "C0402"; UniqueID = "\SUDYHTJL" ("\SUDYHTJL")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "C0402"; UniqueID = "\VVBGOZPO" ("\VVBGOZPO")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "C0402"; UniqueID = "\YSJOECHX" ("\YSJOECHX")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "C0402"; UniqueID = "\DBZUQJJJ" ("\DBZUQJJJ")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "C0402"; UniqueID = "\EJWYMGPW" ("\EJWYMGPW")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "C0402"; UniqueID = "\SBGYIKYA" ("\SBGYIKYA")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "C0402"; UniqueID = "\XMAASSZA" ("\XMAASSZA")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "C0402"; UniqueID = "\DTAFGNXB" ("\DTAFGNXB")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "C0402"; UniqueID = "\SSAKRUGY" ("\SSAKRUGY")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C35" ("C35"); Footprint = "C0402"; UniqueID = "\YFZSBNKD" ("\YFZSBNKD")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C38" ("C38"); Footprint = "C0402"; UniqueID = "\ZTVEMIKW" ("\ZTVEMIKW")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C39" ("C39"); Footprint = "C0402"; UniqueID = "\FDRSTYGY" ("\FDRSTYGY")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C41" ("C41"); Footprint = "C0402"; UniqueID = "\CVJUWJSQ" ("\CVJUWJSQ")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C47" ("C47"); Footprint = "C0402"; UniqueID = "\SIHXIPOD" ("\SIHXIPOD")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C52" ("C52"); Footprint = "C0402"; UniqueID = "\SRYLLZGH" ("\SRYLLZGH")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34" ("R34"); Footprint = "R0402"; UniqueID = "\OGXREQZE" ("\OGXREQZE")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R36" ("R36"); Footprint = "R0402"; UniqueID = "\ZLMHKQFI" ("\ZLMHKQFI")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R38" ("R38"); Footprint = "R0402"; UniqueID = "\DNRMUEVH" ("\DNRMUEVH")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R39" ("R39"); Footprint = "R0402"; UniqueID = "\KJSYUINU" ("\KJSYUINU")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "C0402"; UniqueID = "\BKQXMIMW" ("\BKQXMIMW")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155R61A106ME11D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "C0402"; UniqueID = "\EOYGQGEZ" ("\EOYGQGEZ")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155R61A106ME11D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "C0402"; UniqueID = "\HSYEPJTG" ("\HSYEPJTG")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155R61A106ME11D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27" ("C27"); Footprint = "C0402"; UniqueID = "\JVCWGVGM" ("\JVCWGVGM")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/ProductDetail/Murata-Electronics/GRT155C81A475ME13D?qs=ufv2HEpFn%252BRTWI1%252Bv%2F3NwA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/datasheet/2/281/1/GRT155C81A475ME13_01A-3135426.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155R61A106ME11D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28" ("C28"); Footprint = "C0402"; UniqueID = "\RVLRZVAA" ("\RVLRZVAA")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/ProductDetail/Murata-Electronics/GRT155C81A475ME13D?qs=ufv2HEpFn%252BRTWI1%252Bv%2F3NwA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/datasheet/2/281/1/GRT155C81A475ME13_01A-3135426.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155R61A106ME11D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C40" ("C40"); Footprint = "C0402"; UniqueID = "\ONMHFTQB" ("\ONMHFTQB")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155R61A106ME11D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C42" ("C42"); Footprint = "C0402"; UniqueID = "\HFUHAWCP" ("\HFUHAWCP")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155R61A106ME11D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C45" ("C45"); Footprint = "C0402"; UniqueID = "\NOGGMHMR" ("\NOGGMHMR")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C48" ("C48"); Footprint = "C0402"; UniqueID = "\RIQJZLPS" ("\RIQJZLPS")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C51" ("C51"); Footprint = "C0402"; UniqueID = "\OCYWGHOA" ("\OCYWGHOA")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "C0402"; UniqueID = "\MJSCYZOX" ("\MJSCYZOX")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/ProductDetail/Murata-Electronics/GRM155C81H104ME14D?qs=IPQhFcwEUOignsDjW4gFkg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/datasheet/2/281/1/GRM155C81H104ME14_01A-1983691.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C36" ("C36"); Footprint = "C0402"; UniqueID = "\PYLGLJTA" ("\PYLGLJTA")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155R61A106ME11D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C37" ("C37"); Footprint = "C0402"; UniqueID = "\GHZPIBOT" ("\GHZPIBOT")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155R61A106ME11D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C46" ("C46"); Footprint = "C0402"; UniqueID = "\PKADWFUX" ("\PKADWFUX")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155R61A106ME11D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C49" ("C49"); Footprint = "C0402"; UniqueID = "\DEDZZEOJ" ("\DEDZZEOJ")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155R61A106ME11D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "C0402"; UniqueID = "\MUBXHTLT" ("\MUBXHTLT")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/ProductDetail/Murata-Electronics/GRM155R61A106ME11D?qs=xZ%2FP%252Ba9zWqZMJSi57Q8OyA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/datasheet/2/281/1/GRM155R61A106ME11_01A-1983731.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155R61A106ME11D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29" ("C29"); Footprint = "C0402"; UniqueID = "\KEHGZVBA" ("\KEHGZVBA")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/ProductDetail/Murata-Electronics/GRM155C81H104ME14D?qs=IPQhFcwEUOignsDjW4gFkg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/datasheet/2/281/1/GRM155C81H104ME14_01A-1983691.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C31" ("C31"); Footprint = "C0402"; UniqueID = "\DXGYJZHW" ("\DXGYJZHW")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C33" ("C33"); Footprint = "C0402"; UniqueID = "\RIQKSLHO" ("\RIQKSLHO")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C44" ("C44"); Footprint = "C0402"; UniqueID = "\FNIZDPOX" ("\FNIZDPOX")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155R61A106ME11D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C50" ("C50"); Footprint = "C0402"; UniqueID = "\ODPGZOQQ" ("\ODPGZOQQ")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C53" ("C53"); Footprint = "C0402"; UniqueID = "\PDGWODOA" ("\PDGWODOA")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/ProductDetail/Murata-Electronics/GCM155C71A105ME38D?qs=QzBtWTOodeV5ddl%2FvWs3LA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/datasheet/2/281/1/GCM155C71A105ME38_01A-3142248.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GCM155C71A105ME38D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30" ("C30"); Footprint = "C0402"; UniqueID = "\HJSYDZJX" ("\HJSYDZJX")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/ProductDetail/Murata-Electronics/GRT155C81A475ME13D?qs=ufv2HEpFn%252BRTWI1%252Bv%2F3NwA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/datasheet/2/281/1/GRT155C81A475ME13_01A-3135426.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155R61A106ME11D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C32" ("C32"); Footprint = "C0402"; UniqueID = "\CWVQYEMY" ("\CWVQYEMY")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/ProductDetail/Murata-Electronics/GRT155C81A475ME13D?qs=ufv2HEpFn%252BRTWI1%252Bv%2F3NwA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/datasheet/2/281/1/GRT155C81A475ME13_01A-3135426.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155R61A106ME11D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C34" ("C34"); Footprint = "C0402"; UniqueID = "\XXWQUQXP" ("\XXWQUQXP")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/ProductDetail/Murata-Electronics/GRT155C81A475ME13D?qs=ufv2HEpFn%252BRTWI1%252Bv%2F3NwA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/datasheet/2/281/1/GRT155C81A475ME13_01A-3135426.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GRM155R61A106ME11D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C43" ("C43"); Footprint = "C0402"; UniqueID = "\TAFIXAMH" ("\TAFIXAMH")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/ProductDetail/Murata-Electronics/GCM155C71A105ME38D?qs=QzBtWTOodeV5ddl%2FvWs3LA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/datasheet/2/281/1/GCM155C71A105ME38_01A-3142248.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "GCM155C71A105ME38D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R35" ("R35"); Footprint = "R0402"; UniqueID = "\NLEVELOM" ("\NLEVELOM")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/315/AOA0000C304-1149620.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Panasonic/ERJ-2RKF2202X?qs=sGAEpiMZZMvdGkrng054t8AJgcdMkx7xGCv6QlnvaAM%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "ERJ-2RHD103X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37" ("R37"); Footprint = "R0402"; UniqueID = "\RCPDLZKF" ("\RCPDLZKF")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/315/AOA0000C304-1149620.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Panasonic/ERJ-2RKF2202X?qs=sGAEpiMZZMvdGkrng054t8AJgcdMkx7xGCv6QlnvaAM%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "ERJ-2RHD103X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40" ("R40"); Footprint = "R0402"; UniqueID = "\IVIRMJNF" ("\IVIRMJNF")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41" ("R41"); Footprint = "R0402"; UniqueID = "\EDFBONSY" ("\EDFBONSY")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "L3" ("L3"); Footprint = "L0603"; UniqueID = "\WHHDIAJS" ("\WHHDIAJS")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Ferrite Beads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/281/ENFA0018-1915754.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Murata-Electronics/BLM15PX471SN1D?qs=eTNEoJdcnEJgxrnv%252BsVZMw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "BLM15PX471SN1D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470 Ohms, 1A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L6" ("L6"); Footprint = "R0402"; UniqueID = "\LZGVCZPW" ("\LZGVCZPW")
+Change component parameters (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Power Inductors - SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/281/1/JELF243B_9128-3158890.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Murata-Electronics/LQM18DZ470M70L?qs=aP1CjGhiNiGa4GC35xm0xg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "LQM18DZ470M70L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "180 mA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "629004113921"; UniqueID = "\QDVPSTSG" ("\QDVPSTSG")
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C54(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155R61A106ME11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Added Component: Designator=C55(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C56(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC28_1 Pin=C27-1
+Added Pin To Net: NetName=NetC28_2 Pin=C27-2
+Added Pin To Net: NetName=+Vin Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C30-2
+Added Pin To Net: NetName=NetC33_1 Pin=C32-1
+Added Pin To Net: NetName=NetC33_1 Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=NetC33_1 Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=+4.5V Pin=C39-2
+Added Pin To Net: NetName=+4.5V Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=-4.5V Pin=C41-2
+Added Pin To Net: NetName=-4.5V Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=GND Pin=C44-2
+Added Pin To Net: NetName=+3.3VADC Pin=C46-1
+Added Pin To Net: NetName=Vocm Pin=C47-1
+Added Pin To Net: NetName=NetC33_1 Pin=C49-1
+Added Pin To Net: NetName=NetC33_1 Pin=C50-1
+Added Pin To Net: NetName=GND Pin=C50-2
+Added Pin To Net: NetName=GND Pin=C53-1
+Added Pin To Net: NetName=+3.3VDC Pin=C54-1
+Added Pin To Net: NetName=GND Pin=C54-2
+Added Pin To Net: NetName=+3.3VDC Pin=C55-1
+Added Pin To Net: NetName=GND Pin=C55-2
+Added Pin To Net: NetName=+3.3VDC Pin=C56-1
+Added Pin To Net: NetName=GND Pin=C56-2
+Added Pin To Net: NetName=+Vin Pin=L1-1
+Added Pin To Net: NetName=NetC33_1 Pin=L1-2
+Added Pin To Net: NetName=NetC33_1 Pin=L2-1
+Added Pin To Net: NetName=NetDD2_A3, B3 Pin=L2-2
+Added Pin To Net: NetName=NetC33_1 Pin=L3-1
+Added Pin To Net: NetName=+3.3VADC Pin=L4-2
+Added Pin To Net: NetName=Vocm Pin=L5-2
+Added Pin To Net: NetName=NetDD2_A2 Pin=L6-1
+Added Pin To Net: NetName=GND Pin=L6-2
+Added Pin To Net: NetName=+3.3VADC Pin=R35-2
+Added Pin To Net: NetName=NetDD2_D4 Pin=R36-1
+Added Pin To Net: NetName=GND Pin=R36-2
+Added Pin To Net: NetName=GND Pin=R37-2
+Added Pin To Net: NetName=NetDD2_E2 Pin=R39-1
+Added Pin To Net: NetName=-4.5V Pin=R39-2
+Added Pin To Net: NetName=NetC51_1 Pin=R40-1
+Added Pin To Net: NetName=NetDD2_E1 Pin=R40-2
+Added Pin To Net: NetName=NetDD2_E4 Pin=R41-2
+Added Pin To Net: NetName=NetC33_1 Pin=TP4-1
+Added Pin To Net: NetName=+3.3VDC Pin=U2-1A
+Added Pin To Net: NetName=+3.3VDC Pin=U2-1B
+Added Pin To Net: NetName=NetC33_1 Pin=U2-2A
+Added Pin To Net: NetName=NetC33_1 Pin=U2-2B
+Change Net Name : Old Net Name=+4.5V New Net Name=+6V
+Change Net Name : Old Net Name=+Vin New Net Name=NetC30_1
+Change Net Name : Old Net Name=NetC28_1 New Net Name=+Vusb
+Change Net Name : Old Net Name=NetC28_2 New Net Name=GNDusb
+Change Net Name : Old Net Name=NetC33_1 New Net Name=+Vin
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Added Pin To Net: NetName=NetC37_1 Pin=C37-1
+Added Pin To Net: NetName=NetC37_1 Pin=C38-1
+Added Pin To Net: NetName=NetC37_1 Pin=L3-2
+Added Pin To Net: NetName=NetC37_1 Pin=U1-2A
+Added Pin To Net: NetName=NetC37_1 Pin=U1-2B
+Added Net: Name=NetC37_1
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=NetC43_2 Pin=U1-2C
+Added Net: Name=NetC43_2
+Added Pin To Net: NetName=NetC44_1 Pin=C44-1
+Added Pin To Net: NetName=NetC44_1 Pin=C45-1
+Added Pin To Net: NetName=NetC44_1 Pin=L4-1
+Added Pin To Net: NetName=NetC44_1 Pin=U1-1A
+Added Pin To Net: NetName=NetC44_1 Pin=U1-1B
+Added Net: Name=NetC44_1
+Added Pin To Net: NetName=NetC48_1 Pin=C48-1
+Added Pin To Net: NetName=NetC48_1 Pin=DD2-E3
+Added Pin To Net: NetName=NetC48_1 Pin=R38-2
+Added Net: Name=NetC48_1
+Added Pin To Net: NetName=NetC52_1 Pin=C52-1
+Added Pin To Net: NetName=NetC52_1 Pin=R41-1
+Added Net: Name=NetC52_1
+Added Pin To Net: NetName=NetC53_2 Pin=C53-2
+Added Pin To Net: NetName=NetC53_2 Pin=U2-2C
+Added Net: Name=NetC53_2
+Added Pin To Net: NetName=NetL5_1 Pin=L5-1
+Added Pin To Net: NetName=NetL5_1 Pin=R35-1
+Added Pin To Net: NetName=NetL5_1 Pin=R37-1
+Added Net: Name=NetL5_1
+Added Member To Class: ClassName=Power Member=Component C54 10 uF
+Added Member To Class: ClassName=Power Member=Component C55 0.1u
+Added Member To Class: ClassName=Power Member=Component C56 0.1u
+Added Room: Name=Main
+Added Room: Name=Power

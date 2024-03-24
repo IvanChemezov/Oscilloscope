@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=AGND Pin=R41-1
+Added Pin To Net: NetName=GND Pin=R41-1
+Added Room: Name=Analog
+Added Room: Name=MCU
+Added Room: Name=Power

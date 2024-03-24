@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=+Vin Pin=FB1-1
+Added Pin To Net: NetName=+Vboost Pin=FB2-1
+Added Pin To Net: NetName=-Vneg Pin=FB3-1
+Added Pin To Net: NetName=+3.3VADC Pin=FB4-1
+Change Room Name: Old Name=Power_1 New Name=Power

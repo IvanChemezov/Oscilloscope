@@ -1,0 +1,1332 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=Vocm Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=Vocm Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=+Vboost Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=+Vboost Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=+3.3VADC Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=+3.3VDC Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=+3.3VDC Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=+3.3VADC Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=+3.3VADC Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=+3.3VADC Pin=C10-2
+Removed Pin From Net: NetName=Out_P Pin=C12-1
+Removed Pin From Net: NetName=Out_N Pin=C12-2
+Removed Pin From Net: NetName=Out_P Pin=C13-1
+Removed Pin From Net: NetName=Out_N Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=Out_N Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=Out_P Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=-Vneg Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=-Vneg Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=+3.3VDC Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=+3.3VDC Pin=C28-1
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Pin From Net: NetName=+3.3VDC Pin=C29-1
+Removed Pin From Net: NetName=GND Pin=C29-2
+Removed Pin From Net: NetName=+3.3VDC Pin=C30-1
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=+3.3VDC Pin=C31-1
+Removed Pin From Net: NetName=GND Pin=C31-2
+Removed Pin From Net: NetName=+3.3VADC Pin=C32-1
+Removed Pin From Net: NetName=GND Pin=C32-2
+Removed Pin From Net: NetName=+3.3VADC Pin=C33-1
+Removed Pin From Net: NetName=GND Pin=C33-2
+Removed Pin From Net: NetName=+3.3VADC Pin=C34-1
+Removed Pin From Net: NetName=GND Pin=C34-2
+Removed Pin From Net: NetName=Trigger Pin=C35-1
+Removed Pin From Net: NetName=GND Pin=C35-2
+Removed Pin From Net: NetName=GND Pin=C36-2
+Removed Pin From Net: NetName=GND Pin=C37-2
+Removed Pin From Net: NetName=Signal_N Pin=DA1-1
+Removed Pin From Net: NetName=Signal_P Pin=DA1-4
+Removed Pin From Net: NetName=GND Pin=DA1-5
+Removed Pin From Net: NetName=-Vneg Pin=DA1-7
+Removed Pin From Net: NetName=-Vneg Pin=DA1-7
+Removed Pin From Net: NetName=Vocm Pin=DA1-13
+Removed Pin From Net: NetName=+Vboost Pin=DA1-14
+Removed Pin From Net: NetName=+3.3VADC Pin=DA1-16
+Removed Pin From Net: NetName=ADC_CLK Pin=DA2-2
+Removed Pin From Net: NetName=PDWN Pin=DA2-4
+Removed Pin From Net: NetName=D_0 Pin=DA2-5
+Removed Pin From Net: NetName=D_1 Pin=DA2-6
+Removed Pin From Net: NetName=D_2 Pin=DA2-7
+Removed Pin From Net: NetName=D_3 Pin=DA2-8
+Removed Pin From Net: NetName=D_4 Pin=DA2-9
+Removed Pin From Net: NetName=D_5 Pin=DA2-10
+Removed Pin From Net: NetName=D_6 Pin=DA2-11
+Removed Pin From Net: NetName=D_7 Pin=DA2-12
+Removed Pin From Net: NetName=D_8 Pin=DA2-13
+Removed Pin From Net: NetName=D_9 Pin=DA2-14
+Removed Pin From Net: NetName=GND Pin=DA2-15
+Removed Pin From Net: NetName=+3.3VDC Pin=DA2-16
+Removed Pin From Net: NetName=D_10 Pin=DA2-17
+Removed Pin From Net: NetName=D_11 Pin=DA2-18
+Removed Pin From Net: NetName=D_12 Pin=DA2-19
+Removed Pin From Net: NetName=D_13 Pin=DA2-20
+Removed Pin From Net: NetName=OTR Pin=DA2-21
+Removed Pin From Net: NetName=Mode Pin=DA2-22
+Removed Pin From Net: NetName=Sense Pin=DA2-23
+Removed Pin From Net: NetName=+3.3VADC Pin=DA2-27
+Removed Pin From Net: NetName=GND Pin=DA2-28
+Removed Pin From Net: NetName=GND Pin=DA2-28
+Removed Pin From Net: NetName=Out_P Pin=DA2-29
+Removed Pin From Net: NetName=Out_N Pin=DA2-30
+Removed Pin From Net: NetName=GND Pin=DA2-31
+Removed Pin From Net: NetName=+3.3VADC Pin=DA2-32
+Removed Pin From Net: NetName=+3.3VDC Pin=DD1-1
+Removed Pin From Net: NetName=+3.3VADC Pin=DD1-20
+Removed Pin From Net: NetName=+3.3VADC Pin=DD1-21
+Removed Pin From Net: NetName=+3.3VDC Pin=DD1-23
+Removed Pin From Net: NetName=USB_N Pin=DD1-33
+Removed Pin From Net: NetName=USB_P Pin=DD1-34
+Removed Pin From Net: NetName=+3.3VDC Pin=DD1-35
+Removed Pin From Net: NetName=Trigger Pin=DD1-38
+Removed Pin From Net: NetName=+3.3VDC Pin=DD1-48
+Removed Pin From Net: NetName=GND Pin=DD1-49
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=+Vusb Pin=J3-A4
+Removed Pin From Net: NetName=+Vusb Pin=J3-A9
+Removed Pin From Net: NetName=+Vusb Pin=J3-B4
+Removed Pin From Net: NetName=+Vusb Pin=J3-B9
+Removed Pin From Net: NetName=Signal_P Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=Signal_N Pin=R3-2
+Removed Pin From Net: NetName=Out_P Pin=R4-2
+Removed Pin From Net: NetName=Out_N Pin=R7-2
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=GND Pin=R9-1
+Removed Pin From Net: NetName=Mode Pin=R9-2
+Removed Pin From Net: NetName=GND Pin=R10-1
+Removed Pin From Net: NetName=PDWN Pin=R10-2
+Removed Pin From Net: NetName=Sense Pin=R11-2
+Removed Pin From Net: NetName=D_0 Pin=R12-2
+Removed Pin From Net: NetName=D_1 Pin=R13-2
+Removed Pin From Net: NetName=D_2 Pin=R14-2
+Removed Pin From Net: NetName=ADC_CLK Pin=R15-1
+Removed Pin From Net: NetName=D_3 Pin=R16-2
+Removed Pin From Net: NetName=OTR Pin=R17-1
+Removed Pin From Net: NetName=D_4 Pin=R18-2
+Removed Pin From Net: NetName=PDWN Pin=R19-1
+Removed Pin From Net: NetName=D_5 Pin=R20-2
+Removed Pin From Net: NetName=Mode Pin=R21-1
+Removed Pin From Net: NetName=D_6 Pin=R22-2
+Removed Pin From Net: NetName=Mode Pin=R23-2
+Removed Pin From Net: NetName=D_7 Pin=R24-2
+Removed Pin From Net: NetName=Sense Pin=R25-1
+Removed Pin From Net: NetName=D_8 Pin=R26-2
+Removed Pin From Net: NetName=PWM_LED Pin=R27-1
+Removed Pin From Net: NetName=D_9 Pin=R28-2
+Removed Pin From Net: NetName=D_10 Pin=R29-2
+Removed Pin From Net: NetName=D_11 Pin=R30-2
+Removed Pin From Net: NetName=USB_Pin Pin=R31-1
+Removed Pin From Net: NetName=D_12 Pin=R32-2
+Removed Pin From Net: NetName=D_13 Pin=R33-2
+Removed Pin From Net: NetName=SWDIO Pin=R34-1
+Removed Pin From Net: NetName=SWCLK Pin=R35-1
+Removed Pin From Net: NetName=NetJ2_1 Pin=T1-1
+Removed Pin From Net: NetName=GND Pin=T1-4
+Removed Pin From Net: NetName=SWDIO Pin=TP1-1
+Removed Pin From Net: NetName=SWCLK Pin=TP2-1
+Removed Pin From Net: NetName=GND Pin=TP3-1
+Removed Pin From Net: NetName=+Vusb Pin=TP4-1
+Removed Pin From Net: NetName=Signal_P Pin=VD1-1
+Removed Pin From Net: NetName=Signal_N Pin=VD1-2
+Removed Pin From Net: NetName=GND Pin=VD1-3
+Removed Pin From Net: NetName=+3.3VADC Pin=VD2-1
+Removed Pin From Net: NetName=GND Pin=VD2-3
+Removed Pin From Net: NetName=PWM_LED Pin=VD2-4
+Removed Pin From Net: NetName=Trigger Pin=VD3-2
+Removed Pin From Net: NetName=GND Pin=VD4-1
+Change Component Footprint: Designator=VD4 Old Footprint=0402_VD New Footprint=SOT-9X3
+Change Component Footprint: Designator=DA2 Old Footprint=LFCSP-32_AD9245 New Footprint=VQFN_16_INA851
+Change Component Comment : Designator=R17 Old Comment=1.5k New Comment=0R
+Change Component Comment : Designator=R24 Old Comment=1.5k New Comment=1M
+Change Component Comment : Designator=R25 Old Comment=1.5k New Comment=10 k
+Change Component Comment : Designator=R26 Old Comment=1.5k New Comment=10 k
+Change Component Comment : Designator=R27 Old Comment=1.5k New Comment=10 k
+Change Component Comment : Designator=R39 Old Comment=1.5k New Comment=20k
+Change Component Comment : Designator=R20 Old Comment=1.5k New Comment=22 R
+Change Component Comment : Designator=R21 Old Comment=5k1 New Comment=*
+Change Component Comment : Designator=R23 Old Comment=20k New Comment=22 R
+Change Component Comment : Designator=R34 Old Comment=22 R New Comment=1.5k
+Change Component Comment : Designator=R35 Old Comment=22 R New Comment=1.5k
+Change Component Comment : Designator=R38 Old Comment=22 R New Comment=1.5k
+Change Component Comment : Designator=R37 Old Comment=22 R New Comment=5k1
+Change Component Comment : Designator=DA2 Old Comment=AD9245BCPZ-20 New Comment=INA851RGTR
+Change Component Comment : Designator=VD4 Old Comment=CDBQR40 New Comment=TPD2EUSB30ADRTR
+Change Component Comment : Designator=G1 Old Comment=ECS-200-10-37B-CKY-TR New Comment=ECS-320-8-37B2-7KM-TR
+Change Component Designator: OldDesignator=C38 NewDesignator=C1
+Change Component Designator: OldDesignator=C39 NewDesignator=C2
+Change Component Designator: OldDesignator=C40 NewDesignator=C3
+Change Component Designator: OldDesignator=C41 NewDesignator=C4
+Change Component Designator: OldDesignator=C42 NewDesignator=C5
+Change Component Designator: OldDesignator=C43 NewDesignator=C6
+Change Component Designator: OldDesignator=C44 NewDesignator=C7
+Change Component Designator: OldDesignator=C45 NewDesignator=C8
+Change Component Designator: OldDesignator=C46 NewDesignator=C9
+Change Component Designator: OldDesignator=C47 NewDesignator=C10
+Change Component Designator: OldDesignator=C48 NewDesignator=C11
+Change Component Designator: OldDesignator=C49 NewDesignator=C12
+Change Component Designator: OldDesignator=C50 NewDesignator=C13
+Change Component Designator: OldDesignator=C51 NewDesignator=C14
+Change Component Designator: OldDesignator=C52 NewDesignator=C15
+Change Component Designator: OldDesignator=C53 NewDesignator=C16
+Change Component Designator: OldDesignator=C54 NewDesignator=C17
+Change Component Designator: OldDesignator=C55 NewDesignator=C18
+Change Component Designator: OldDesignator=C56 NewDesignator=C19
+Change Component Designator: OldDesignator=C57 NewDesignator=C20
+Change Component Designator: OldDesignator=C58 NewDesignator=C21
+Change Component Designator: OldDesignator=C59 NewDesignator=C22
+Change Component Designator: OldDesignator=C60 NewDesignator=C23
+Change Component Designator: OldDesignator=C61 NewDesignator=C24
+Change Component Designator: OldDesignator=C62 NewDesignator=C25
+Change Component Designator: OldDesignator=C63 NewDesignator=C26
+Change Component Designator: OldDesignator=C64 NewDesignator=C27
+Change Component Designator: OldDesignator=C65 NewDesignator=C28
+Change Component Designator: OldDesignator=C66 NewDesignator=C29
+Change Component Designator: OldDesignator=C67 NewDesignator=C30
+Change Component Designator: OldDesignator=C68 NewDesignator=C31
+Change Component Designator: OldDesignator=C69 NewDesignator=C32
+Change Component Designator: OldDesignator=C70 NewDesignator=C33
+Change Component Designator: OldDesignator=C71 NewDesignator=C34
+Change Component Designator: OldDesignator=C72 NewDesignator=C35
+Change Component Designator: OldDesignator=C73 NewDesignator=C36
+Change Component Designator: OldDesignator=C74 NewDesignator=C37
+Change Component Designator: OldDesignator=C75 NewDesignator=C38
+Change Component Designator: OldDesignator=DA3 NewDesignator=DA1
+Change Component Designator: OldDesignator=DD2 NewDesignator=DD1
+Change Component Designator: OldDesignator=DD3 NewDesignator=DD2
+Change Component Designator: OldDesignator=J3 NewDesignator=J1
+Change Component Designator: OldDesignator=R40 NewDesignator=R1
+Change Component Designator: OldDesignator=R41 NewDesignator=R2
+Change Component Designator: OldDesignator=R42 NewDesignator=R3
+Change Component Designator: OldDesignator=R43 NewDesignator=R4
+Change Component Designator: OldDesignator=R44 NewDesignator=R5
+Change Component Designator: OldDesignator=R45 NewDesignator=R6
+Change Component Designator: OldDesignator=R46 NewDesignator=R7
+Change Component Designator: OldDesignator=R47 NewDesignator=R8
+Change Component Designator: OldDesignator=R48 NewDesignator=R9
+Change Component Designator: OldDesignator=R49 NewDesignator=R10
+Change Component Designator: OldDesignator=R50 NewDesignator=R11
+Change Component Designator: OldDesignator=R51 NewDesignator=R12
+Change Component Designator: OldDesignator=R52 NewDesignator=R13
+Change Component Designator: OldDesignator=R53 NewDesignator=R14
+Change Component Designator: OldDesignator=R54 NewDesignator=R15
+Change Component Designator: OldDesignator=R55 NewDesignator=R16
+Change Component Designator: OldDesignator=TP4 NewDesignator=TP1
+Change Component Designator: OldDesignator=VD5 NewDesignator=VD1
+Change Component Designator: OldDesignator=VD6 NewDesignator=VD2
+Change Component Designator: OldDesignator=VD7 NewDesignator=VD3
+Change component parameters: Designator = "R39" ("R39"); Footprint = "R0402"; UniqueID = "\FRLNSWXR" ("\FRLNSWXR")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "G1" ("G1"); Footprint = "2 mm x 1.6 mm"; UniqueID = "\OULUQSID" ("\OULUQSID")
+Change component parameters (AddParameter): Name = "Case"; Value = "2 mm x 1.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Crystals"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/122/ECX_1637B2-2400564.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/ECS/ECS-320-8-37B2-7KM-TR?qs=QNEnbhJQKvYRM5nE5d%2F8vg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ECS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "ECS-320-8-37B2-7KM-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "32 MHz,  10 PPM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37" ("R37"); Footprint = "R0402"; UniqueID = "\YVXXOQHO" ("\YVXXOQHO")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/315/AOA0000C304-1149620.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Panasonic/ERJ-2RKF2202X?qs=sGAEpiMZZMvdGkrng054t8AJgcdMkx7xGCv6QlnvaAM%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "ERJ-2RHD103X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5k1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "R0402"; UniqueID = "\RQIPJJGB" ("\RQIPJJGB")
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R24"); Footprint = "R0402"; UniqueID = "\YSKWXOJG" ("\YSKWXOJG")
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "R0402"; UniqueID = "\RRLFIZHA" ("\RRLFIZHA")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23" ("R23"); Footprint = "R0402"; UniqueID = "\PFCZTJED" ("\PFCZTJED")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25" ("R25"); Footprint = "R0402"; UniqueID = "\XZISQFUY" ("\XZISQFUY")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/315/AOA0000C304-1149620.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Panasonic/ERJ-2RKF2202X?qs=sGAEpiMZZMvdGkrng054t8AJgcdMkx7xGCv6QlnvaAM%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "ERJ-2RHD103X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R26"); Footprint = "R0402"; UniqueID = "\FMQAIFSU" ("\FMQAIFSU")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/315/AOA0000C304-1149620.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Panasonic/ERJ-2RKF2202X?qs=sGAEpiMZZMvdGkrng054t8AJgcdMkx7xGCv6QlnvaAM%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "ERJ-2RHD103X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27" ("R27"); Footprint = "R0402"; UniqueID = "\DABXQBLR" ("\DABXQBLR")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/315/AOA0000C304-1149620.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Panasonic/ERJ-2RKF2202X?qs=sGAEpiMZZMvdGkrng054t8AJgcdMkx7xGCv6QlnvaAM%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "ERJ-2RHD103X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34" ("R34"); Footprint = "R0402"; UniqueID = "\ZWUIRLDL" ("\ZWUIRLDL")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R35" ("R35"); Footprint = "R0402"; UniqueID = "\LQPJQJPD" ("\LQPJQJPD")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R38" ("R38"); Footprint = "R0402"; UniqueID = "\ANDTDDOS" ("\ANDTDDOS")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DA2" ("DA2"); Footprint = "LFCSP-32_AD9245"; UniqueID = "\FCUFGOPA" ("\FCUFGOPA")
+Change component parameters (AddParameter): Name = "Case"; Value = "VQFN-16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Instrumentation Amplifiers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/lit/ds/symlink/ina851.pdf?ts=1707581186124&ref_url=https%253A%252F%252Feu.mouser.com%252F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Texas-Instruments/INA851RGTR?qs=Y0Uzf4wQF3kbGQkgMC0HWQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "INA851RGTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.2 nV/vHz. +-40V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21" ("R21"); Footprint = "R0402"; UniqueID = "\UADBIZQF" ("\UADBIZQF")
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD4" ("VD4"); Footprint = "0402_VD"; UniqueID = "\UHPWGIGW" ("\UHPWGIGW")
+Change component parameters (AddParameter): Name = "Case"; Value = "SOT-9X3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "ESD Suppressors / TVS Diodes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/lit/ds/symlink/tpd2eusb30.pdf?ts=1708175608995&ref_url=https%253A%252F%252Feu.mouser.com%252F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Texas-Instruments/TPD2EUSB30ADRTR?qs=O1HRStiETCgOfMa6oTfOlg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "TPD2EUSB30ADRTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2 Channel, 4.5 V"; VariantName = "[No Variations]"
+Added Component: Designator=C39(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/ProductDetail/Murata-Electronics/GCM155C71A105ME38D?qs=QzBtWTOodeV5ddl%2FvWs3LA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/datasheet/2/281/1/GCM155C71A105ME38_01A-3142248.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GCM155C71A105ME38D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Added Component: Designator=C40(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C41(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C42(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/ProductDetail/Murata-Electronics/GCM155C71A105ME38D?qs=QzBtWTOodeV5ddl%2FvWs3LA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/datasheet/2/281/1/GCM155C71A105ME38_01A-3142248.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GCM155C71A105ME38D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Added Component: Designator=C43(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C44(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/ProductDetail/Murata-Electronics/GCM155C71A105ME38D?qs=QzBtWTOodeV5ddl%2FvWs3LA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/datasheet/2/281/1/GCM155C71A105ME38_01A-3142248.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GCM155C71A105ME38D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Added Component: Designator=C45(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C46(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/ProductDetail/Murata-Electronics/GCM155C71A105ME38D?qs=QzBtWTOodeV5ddl%2FvWs3LA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/datasheet/2/281/1/GCM155C71A105ME38_01A-3142248.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GCM155C71A105ME38D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Added Component: Designator=C47(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C48(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C49(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/ProductDetail/KEMET/C0402C100K5RACTU?qs=Mv7BduZupUgEdPvwNAxLRQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/datasheet/2/447/KEM_C1002_X7R_SMD-3316098.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "C0402C100K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2p"; VariantName = "[No Variations]"
+Added Component: Designator=C50(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "C0402C100K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10p"; VariantName = "[No Variations]"
+Added Component: Designator=C51(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "C0402C100K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10p"; VariantName = "[No Variations]"
+Added Component: Designator=C52(Trimmer Capacitors)
+Add component (AddParameter): Name = "Case"; Value = "JR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Trimmer/Variable Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/218/Knowles_Trimmers_Catalogue_web-1774092.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Knowles-Voltronics/JR100?qs=Xqu1B%2Fs4Uoag80ukOW5org%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Knowles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "JR100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2 pF to 10 pF"; VariantName = "[No Variations]"
+Added Component: Designator=C53(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/ProductDetail/KEMET/C0402C100K5RACTU?qs=Mv7BduZupUgEdPvwNAxLRQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/datasheet/2/447/KEM_C1002_X7R_SMD-3316098.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "C0402C100K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2p"; VariantName = "[No Variations]"
+Added Component: Designator=C54(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/ProductDetail/KEMET/C0402C100K5RACTU?qs=Mv7BduZupUgEdPvwNAxLRQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/datasheet/2/447/KEM_C1002_X7R_SMD-3316098.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "C0402C100K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10p"; VariantName = "[No Variations]"
+Added Component: Designator=C55(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/ProductDetail/KEMET/C0402C100K5RACTU?qs=Mv7BduZupUgEdPvwNAxLRQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/datasheet/2/447/KEM_C1002_X7R_SMD-3316098.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "C0402C100K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10p"; VariantName = "[No Variations]"
+Added Component: Designator=C56(C0402)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C57(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C58(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/ProductDetail/Murata-Electronics/GCM155C71A105ME38D?qs=QzBtWTOodeV5ddl%2FvWs3LA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/datasheet/2/281/1/GCM155C71A105ME38_01A-3142248.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GCM155C71A105ME38D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Added Component: Designator=C59(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/ProductDetail/Murata-Electronics/GRM155R61A106ME11D?qs=xZ%2FP%252Ba9zWqZMJSi57Q8OyA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/datasheet/2/281/1/GRM155R61A106ME11_01A-1983731.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155R61A106ME11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Added Component: Designator=C60(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C61(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C62(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155R61A106ME11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Added Component: Designator=C63(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C64(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C65(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155R61A106ME11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Added Component: Designator=C66(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C67(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C68(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C69(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C70(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155R61A106ME11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Added Component: Designator=C71(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C72(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C73(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/ProductDetail/KEMET/C0402C100K5RACTU?qs=Mv7BduZupUgEdPvwNAxLRQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/datasheet/2/447/KEM_C1002_X7R_SMD-3316098.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "C0402C100K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10p"; VariantName = "[No Variations]"
+Added Component: Designator=C74(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/ProductDetail/KEMET/C0402C100K5RACTU?qs=Mv7BduZupUgEdPvwNAxLRQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/datasheet/2/447/KEM_C1002_X7R_SMD-3316098.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "C0402C100K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10p"; VariantName = "[No Variations]"
+Added Component: Designator=C75(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "C0402C100K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10p"; VariantName = "[No Variations]"
+Added Component: Designator=DA3(LFCSP-32_AD9245)
+Add component (AddParameter): Name = "Case"; Value = "LFCSP-32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Analog to Digital Converters - ADC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/609/AD9245-3134626.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Analog-Devices/AD9245BCPZ-20?qs=%2FtpEQrCGXCyn%2FB%2F5xLQAJw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Analog Devices Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "AD9245BCPZ-20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "14 bit,  20 MS/s"; VariantName = "[No Variations]"
+Added Component: Designator=DD3(UFQFPN-48)
+Add component (AddParameter): Name = "Case"; Value = "UFQFPN-48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "ARM Microcontrollers - MCU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/389/stm32g431c6-1600866.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/STMicroelectronics/STM32G431CBU3?qs=PzGy0jfpSMuhNWEWgwfZ0w%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "STM32G431CBU3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "170 MHz"; VariantName = "[No Variations]"
+Added Component: Designator=F1(F0603)
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Surface Mount Fuses"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.vishay.com/docs/28747/mfuserie.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Vishay-Beyschlag/MFU0603FF03150P500?qs=sGAEpiMZZMsIz3CjQ1xegdfpEu45NLwazbH8oP2SIn8%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "MFU0603FF03150P500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.15 A"; VariantName = "[No Variations]"
+Added Component: Designator=J3(112640)
+Add component (AddParameter): Name = "Case"; Value = "BNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Jack (Socket)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/18/1/amph_s_a0003617014_1-2261107.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Amphenol-RF/112640?qs=g6wJ%252BjiQWOckvE%2FP9L4wAw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "112640"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50 Ohms"; VariantName = "[No Variations]"
+Added Component: Designator=R40(R0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Added Component: Designator=R41(R0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Added Component: Designator=R42(R0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Added Component: Designator=R43(R0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Added Component: Designator=R44(R0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Added Component: Designator=R45(R0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Added Component: Designator=R46(R0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Added Component: Designator=R47(R0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Added Component: Designator=R48(R0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Added Component: Designator=R49(R0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Added Component: Designator=R50(R0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Added Component: Designator=R51(R0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Added Component: Designator=R52(R0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Added Component: Designator=R53(R0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Added Component: Designator=R54(R0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Added Component: Designator=TP4(36-5117-ND)
+Add component (AddParameter): Name = "Case"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Test point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://ru.mouser.com/datasheet/2/215/5115_5119-744073.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Keystone-Electronics/5117?qs=%2Fha2pyFadujSuVybhyFc6oqj%252BXCGMBBx2uPmIz4OBqU%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "5117"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "36-5117"; VariantName = "[No Variations]"
+Added Component: Designator=VD5(0402_VD)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Schottky Diodes & Rectifiers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/80/CDBQR40_HF_RevC811666-2488328.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Comchip-Technology/CDBQR40?qs=tw%252BuQ%2FB6PO2qnzfzuJamKw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "CDBQR40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200mA, 40V"; VariantName = "[No Variations]"
+Added Component: Designator=VD6(0402_VD)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Schottky Diodes & Rectifiers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/80/CDBQR40_HF_RevC811666-2488328.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Comchip-Technology/CDBQR40?qs=tw%252BuQ%2FB6PO2qnzfzuJamKw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "CDBQR40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200mA, 40V"; VariantName = "[No Variations]"
+Added Component: Designator=VD7(SMD5050)
+Add component (AddParameter): Name = "Case"; Value = "SMD5050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "RGB LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/lcsc/1810231210_Worldsemi-WS2812C_C114587.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812C_C114587.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "WS2812C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RGB"; VariantName = "[No Variations]"
+Added Component: Designator=VD8(0402_VD)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Schottky Diodes & Rectifiers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/80/CDBQR40_HF_RevC811666-2488328.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Comchip-Technology/CDBQR40?qs=tw%252BuQ%2FB6PO2qnzfzuJamKw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "CDBQR40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200mA, 40V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=Vocm Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=Vocm Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=+Vboost Pin=C41-2
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=+Vboost Pin=C42-2
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=+3.3VADC Pin=C43-2
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=+3.3VDC Pin=C44-2
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=+3.3VDC Pin=C45-2
+Added Pin To Net: NetName=GND Pin=C46-1
+Added Pin To Net: NetName=+3.3VADC Pin=C46-2
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=+3.3VADC Pin=C47-2
+Added Pin To Net: NetName=GND Pin=C48-1
+Added Pin To Net: NetName=+3.3VADC Pin=C48-2
+Added Pin To Net: NetName=Out_P Pin=C50-1
+Added Pin To Net: NetName=Out_N Pin=C50-2
+Added Pin To Net: NetName=Out_P Pin=C51-1
+Added Pin To Net: NetName=Out_N Pin=C51-2
+Added Pin To Net: NetName=GND Pin=C52-2
+Added Pin To Net: NetName=Out_N Pin=C54-1
+Added Pin To Net: NetName=GND Pin=C54-2
+Added Pin To Net: NetName=Out_P Pin=C55-1
+Added Pin To Net: NetName=GND Pin=C55-2
+Added Pin To Net: NetName=GND Pin=C56-2
+Added Pin To Net: NetName=GND Pin=C57-1
+Added Pin To Net: NetName=-Vneg Pin=C57-2
+Added Pin To Net: NetName=GND Pin=C58-1
+Added Pin To Net: NetName=-Vneg Pin=C58-2
+Added Pin To Net: NetName=GND Pin=C61-1
+Added Pin To Net: NetName=GND Pin=C62-2
+Added Pin To Net: NetName=GND Pin=C63-1
+Added Pin To Net: NetName=GND Pin=C64-1
+Added Pin To Net: NetName=+3.3VDC Pin=C65-1
+Added Pin To Net: NetName=GND Pin=C65-2
+Added Pin To Net: NetName=+3.3VDC Pin=C66-1
+Added Pin To Net: NetName=GND Pin=C66-2
+Added Pin To Net: NetName=+3.3VDC Pin=C67-1
+Added Pin To Net: NetName=GND Pin=C67-2
+Added Pin To Net: NetName=+3.3VDC Pin=C68-1
+Added Pin To Net: NetName=GND Pin=C68-2
+Added Pin To Net: NetName=+3.3VDC Pin=C69-1
+Added Pin To Net: NetName=GND Pin=C69-2
+Added Pin To Net: NetName=+3.3VADC Pin=C70-1
+Added Pin To Net: NetName=GND Pin=C70-2
+Added Pin To Net: NetName=+3.3VADC Pin=C71-1
+Added Pin To Net: NetName=GND Pin=C71-2
+Added Pin To Net: NetName=+3.3VADC Pin=C72-1
+Added Pin To Net: NetName=GND Pin=C72-2
+Added Pin To Net: NetName=Trigger Pin=C73-1
+Added Pin To Net: NetName=GND Pin=C73-2
+Added Pin To Net: NetName=GND Pin=C74-2
+Added Pin To Net: NetName=GND Pin=C75-2
+Added Pin To Net: NetName=Signal_N Pin=DA2-1
+Added Pin To Net: NetName=Signal_P Pin=DA2-4
+Added Pin To Net: NetName=GND Pin=DA2-5
+Added Pin To Net: NetName=-Vneg Pin=DA2-7
+Added Pin To Net: NetName=-Vneg Pin=DA2-7
+Added Pin To Net: NetName=Vocm Pin=DA2-13
+Added Pin To Net: NetName=+Vboost Pin=DA2-14
+Added Pin To Net: NetName=+3.3VADC Pin=DA2-16
+Added Pin To Net: NetName=ADC_CLK Pin=DA3-2
+Added Pin To Net: NetName=PDWN Pin=DA3-4
+Added Pin To Net: NetName=D_0 Pin=DA3-5
+Added Pin To Net: NetName=D_1 Pin=DA3-6
+Added Pin To Net: NetName=D_2 Pin=DA3-7
+Added Pin To Net: NetName=D_3 Pin=DA3-8
+Added Pin To Net: NetName=D_4 Pin=DA3-9
+Added Pin To Net: NetName=D_5 Pin=DA3-10
+Added Pin To Net: NetName=D_6 Pin=DA3-11
+Added Pin To Net: NetName=D_7 Pin=DA3-12
+Added Pin To Net: NetName=D_8 Pin=DA3-13
+Added Pin To Net: NetName=D_9 Pin=DA3-14
+Added Pin To Net: NetName=GND Pin=DA3-15
+Added Pin To Net: NetName=+3.3VDC Pin=DA3-16
+Added Pin To Net: NetName=D_10 Pin=DA3-17
+Added Pin To Net: NetName=D_11 Pin=DA3-18
+Added Pin To Net: NetName=D_12 Pin=DA3-19
+Added Pin To Net: NetName=D_13 Pin=DA3-20
+Added Pin To Net: NetName=OTR Pin=DA3-21
+Added Pin To Net: NetName=Mode Pin=DA3-22
+Added Pin To Net: NetName=Sense Pin=DA3-23
+Added Pin To Net: NetName=+3.3VADC Pin=DA3-27
+Added Pin To Net: NetName=GND Pin=DA3-28
+Added Pin To Net: NetName=GND Pin=DA3-28
+Added Pin To Net: NetName=Out_P Pin=DA3-29
+Added Pin To Net: NetName=Out_N Pin=DA3-30
+Added Pin To Net: NetName=GND Pin=DA3-31
+Added Pin To Net: NetName=+3.3VADC Pin=DA3-32
+Added Pin To Net: NetName=+3.3VDC Pin=DD3-1
+Added Pin To Net: NetName=+3.3VADC Pin=DD3-20
+Added Pin To Net: NetName=+3.3VADC Pin=DD3-21
+Added Pin To Net: NetName=+3.3VDC Pin=DD3-23
+Added Pin To Net: NetName=USB_N Pin=DD3-33
+Added Pin To Net: NetName=USB_P Pin=DD3-34
+Added Pin To Net: NetName=+3.3VDC Pin=DD3-35
+Added Pin To Net: NetName=Trigger Pin=DD3-38
+Added Pin To Net: NetName=+3.3VDC Pin=DD3-48
+Added Pin To Net: NetName=GND Pin=DD3-49
+Added Pin To Net: NetName=+Vusb Pin=F1-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=NetJ2_1 Pin=R17-2
+Added Pin To Net: NetName=Signal_P Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=Signal_N Pin=R19-2
+Added Pin To Net: NetName=Out_P Pin=R20-2
+Added Pin To Net: NetName=Out_N Pin=R23-2
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=Mode Pin=R25-2
+Added Pin To Net: NetName=GND Pin=R26-1
+Added Pin To Net: NetName=PDWN Pin=R26-2
+Added Pin To Net: NetName=Sense Pin=R27-2
+Added Pin To Net: NetName=D_0 Pin=R28-2
+Added Pin To Net: NetName=D_1 Pin=R29-2
+Added Pin To Net: NetName=D_2 Pin=R30-2
+Added Pin To Net: NetName=ADC_CLK Pin=R31-1
+Added Pin To Net: NetName=D_3 Pin=R32-2
+Added Pin To Net: NetName=OTR Pin=R33-1
+Added Pin To Net: NetName=D_4 Pin=R34-2
+Added Pin To Net: NetName=PDWN Pin=R35-1
+Added Pin To Net: NetName=D_5 Pin=R36-2
+Added Pin To Net: NetName=Mode Pin=R37-1
+Added Pin To Net: NetName=D_6 Pin=R38-2
+Added Pin To Net: NetName=Mode Pin=R39-2
+Added Pin To Net: NetName=D_7 Pin=R40-2
+Added Pin To Net: NetName=Sense Pin=R41-1
+Added Pin To Net: NetName=D_8 Pin=R42-2
+Added Pin To Net: NetName=PWM_LED Pin=R43-1
+Added Pin To Net: NetName=D_9 Pin=R44-2
+Added Pin To Net: NetName=D_10 Pin=R45-2
+Added Pin To Net: NetName=D_11 Pin=R46-2
+Added Pin To Net: NetName=USB_Pin Pin=R47-1
+Added Pin To Net: NetName=D_12 Pin=R48-2
+Added Pin To Net: NetName=D_13 Pin=R49-2
+Added Pin To Net: NetName=SWDIO Pin=R50-1
+Added Pin To Net: NetName=SWCLK Pin=R51-1
+Added Pin To Net: NetName=GND Pin=R54-2
+Added Pin To Net: NetName=SWDIO Pin=TP2-1
+Added Pin To Net: NetName=SWCLK Pin=TP3-1
+Added Pin To Net: NetName=GND Pin=TP4-1
+Added Pin To Net: NetName=Signal_P Pin=VD4-1
+Added Pin To Net: NetName=Signal_N Pin=VD4-2
+Added Pin To Net: NetName=GND Pin=VD4-3
+Added Pin To Net: NetName=Trigger Pin=VD6-2
+Added Pin To Net: NetName=+3.3VADC Pin=VD7-1
+Added Pin To Net: NetName=GND Pin=VD7-3
+Added Pin To Net: NetName=PWM_LED Pin=VD7-4
+Added Pin To Net: NetName=GND Pin=VD8-1
+Change Net Name : Old Net Name=NetC40_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetC42_1 New Net Name=NetC5_1
+Change Net Name : Old Net Name=NetC46_1 New Net Name=NetC9_1
+Change Net Name : Old Net Name=NetC47_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetC48_1 New Net Name=NetC11_1
+Change Net Name : Old Net Name=NetC51_2 New Net Name=NetC14_2
+Change Net Name : Old Net Name=NetC58_1 New Net Name=NetC21_1
+Change Net Name : Old Net Name=NetC61_1 New Net Name=NetC24_1
+Change Net Name : Old Net Name=NetC62_2 New Net Name=NetC25_2
+Change Net Name : Old Net Name=NetC65_1 New Net Name=NetC28_1
+Change Net Name : Old Net Name=NetC66_1 New Net Name=NetC29_1
+Change Net Name : Old Net Name=NetC70_2 New Net Name=NetC33_2
+Change Net Name : Old Net Name=NetC71_1 New Net Name=NetC34_1
+Change Net Name : Old Net Name=NetDD2_10 New Net Name=NetDD1_10
+Change Net Name : Old Net Name=NetDD2_11 New Net Name=NetDD1_11
+Change Net Name : Old Net Name=NetDD3_A2 New Net Name=NetDD2_A2
+Change Net Name : Old Net Name=NetDD3_A3, B3 New Net Name=NetDD2_A3, B3
+Change Net Name : Old Net Name=NetDD3_D3 New Net Name=NetDD2_D3
+Change Net Name : Old Net Name=NetDD3_D4 New Net Name=NetDD2_D4
+Change Net Name : Old Net Name=NetDD3_E1 New Net Name=NetDD2_E1
+Change Net Name : Old Net Name=NetDD3_E2 New Net Name=NetDD2_E2
+Change Net Name : Old Net Name=NetDD3_E4 New Net Name=NetDD2_E4
+Change Net Name : Old Net Name=NetJ3_A5 New Net Name=NetJ1_A5
+Change Net Name : Old Net Name=NetJ3_A6 New Net Name=NetJ1_A6
+Change Net Name : Old Net Name=NetJ3_A7 New Net Name=NetJ1_A7
+Change Net Name : Old Net Name=NetJ3_B5 New Net Name=NetJ1_B5
+Added Pin To Net: NetName=NetC49_1 Pin=C49-1
+Added Pin To Net: NetName=NetC49_1 Pin=DA2-15
+Added Net: Name=NetC49_1
+Added Pin To Net: NetName=NetC49_2 Pin=C49-2
+Added Pin To Net: NetName=NetC49_2 Pin=DA2-11
+Added Pin To Net: NetName=NetC49_2 Pin=DA2-12
+Added Pin To Net: NetName=NetC49_2 Pin=R20-1
+Added Net: Name=NetC49_2
+Added Pin To Net: NetName=NetC52_1 Pin=C52-1
+Added Pin To Net: NetName=NetC52_1 Pin=R17-1
+Added Pin To Net: NetName=NetC52_1 Pin=R18-1
+Added Pin To Net: NetName=NetC52_1 Pin=R21-2
+Added Pin To Net: NetName=NetC52_1 Pin=R24-2
+Added Net: Name=NetC52_1
+Added Pin To Net: NetName=NetC53_1 Pin=C53-1
+Added Pin To Net: NetName=NetC53_1 Pin=DA2-9
+Added Pin To Net: NetName=NetC53_1 Pin=DA2-10
+Added Pin To Net: NetName=NetC53_1 Pin=R23-1
+Added Net: Name=NetC53_1
+Added Pin To Net: NetName=NetC53_2 Pin=C53-2
+Added Pin To Net: NetName=NetC53_2 Pin=DA2-6
+Added Net: Name=NetC53_2
+Added Pin To Net: NetName=NetC56_1 Pin=C56-1
+Added Pin To Net: NetName=NetC56_1 Pin=R21-1
+Added Net: Name=NetC56_1
+Added Pin To Net: NetName=NetC59_1 Pin=C59-1
+Added Pin To Net: NetName=NetC59_1 Pin=C60-2
+Added Pin To Net: NetName=NetC59_1 Pin=C63-2
+Added Pin To Net: NetName=NetC59_1 Pin=DA3-26
+Added Net: Name=NetC59_1
+Added Pin To Net: NetName=NetC59_2 Pin=C59-2
+Added Pin To Net: NetName=NetC59_2 Pin=C60-1
+Added Pin To Net: NetName=NetC59_2 Pin=C64-2
+Added Pin To Net: NetName=NetC59_2 Pin=DA3-25
+Added Net: Name=NetC59_2
+Added Pin To Net: NetName=NetC61_2 Pin=C61-2
+Added Pin To Net: NetName=NetC61_2 Pin=C62-1
+Added Pin To Net: NetName=NetC61_2 Pin=DA3-24
+Added Pin To Net: NetName=NetC61_2 Pin=R27-1
+Added Net: Name=NetC61_2
+Added Pin To Net: NetName=NetC74_1 Pin=C74-1
+Added Pin To Net: NetName=NetC74_1 Pin=G1-1
+Added Pin To Net: NetName=NetC74_1 Pin=R52-1
+Added Net: Name=NetC74_1
+Added Pin To Net: NetName=NetC75_1 Pin=C75-1
+Added Pin To Net: NetName=NetC75_1 Pin=DD3-6
+Added Pin To Net: NetName=NetC75_1 Pin=G1-3
+Added Net: Name=NetC75_1
+Added Pin To Net: NetName=NetDA2_2 Pin=DA2-2
+Added Pin To Net: NetName=NetDA2_2 Pin=R22-2
+Added Net: Name=NetDA2_2
+Added Pin To Net: NetName=NetDA2_3 Pin=DA2-3
+Added Pin To Net: NetName=NetDA2_3 Pin=R22-1
+Added Net: Name=NetDA2_3
+Added Pin To Net: NetName=NetDD3_5 Pin=DD3-5
+Added Pin To Net: NetName=NetDD3_5 Pin=R52-2
+Added Net: Name=NetDD3_5
+Added Pin To Net: NetName=NetDD3_9 Pin=DD3-9
+Added Pin To Net: NetName=NetDD3_9 Pin=R31-2
+Added Net: Name=NetDD3_9
+Added Pin To Net: NetName=NetDD3_10 Pin=DD3-10
+Added Pin To Net: NetName=NetDD3_10 Pin=R33-2
+Added Net: Name=NetDD3_10
+Added Pin To Net: NetName=NetDD3_11 Pin=DD3-11
+Added Pin To Net: NetName=NetDD3_11 Pin=R35-2
+Added Net: Name=NetDD3_11
+Added Pin To Net: NetName=NetDD3_12 Pin=DD3-12
+Added Pin To Net: NetName=NetDD3_12 Pin=R37-2
+Added Net: Name=NetDD3_12
+Added Pin To Net: NetName=NetDD3_13 Pin=DD3-13
+Added Pin To Net: NetName=NetDD3_13 Pin=R39-1
+Added Net: Name=NetDD3_13
+Added Pin To Net: NetName=NetDD3_14 Pin=DD3-14
+Added Pin To Net: NetName=NetDD3_14 Pin=R41-2
+Added Net: Name=NetDD3_14
+Added Pin To Net: NetName=NetDD3_15 Pin=DD3-15
+Added Pin To Net: NetName=NetDD3_15 Pin=R43-2
+Added Net: Name=NetDD3_15
+Added Pin To Net: NetName=NetDD3_17 Pin=DD3-17
+Added Pin To Net: NetName=NetDD3_17 Pin=R28-1
+Added Net: Name=NetDD3_17
+Added Pin To Net: NetName=NetDD3_18 Pin=DD3-18
+Added Pin To Net: NetName=NetDD3_18 Pin=R29-1
+Added Net: Name=NetDD3_18
+Added Pin To Net: NetName=NetDD3_19 Pin=DD3-19
+Added Pin To Net: NetName=NetDD3_19 Pin=R30-1
+Added Net: Name=NetDD3_19
+Added Pin To Net: NetName=NetDD3_22 Pin=DD3-22
+Added Pin To Net: NetName=NetDD3_22 Pin=R45-1
+Added Net: Name=NetDD3_22
+Added Pin To Net: NetName=NetDD3_24 Pin=DD3-24
+Added Pin To Net: NetName=NetDD3_24 Pin=R46-1
+Added Net: Name=NetDD3_24
+Added Pin To Net: NetName=NetDD3_25 Pin=DD3-25
+Added Pin To Net: NetName=NetDD3_25 Pin=R48-1
+Added Net: Name=NetDD3_25
+Added Pin To Net: NetName=NetDD3_26 Pin=DD3-26
+Added Pin To Net: NetName=NetDD3_26 Pin=R49-1
+Added Net: Name=NetDD3_26
+Added Pin To Net: NetName=NetDD3_32 Pin=DD3-32
+Added Pin To Net: NetName=NetDD3_32 Pin=R47-2
+Added Net: Name=NetDD3_32
+Added Pin To Net: NetName=NetDD3_36 Pin=DD3-36
+Added Pin To Net: NetName=NetDD3_36 Pin=R50-2
+Added Net: Name=NetDD3_36
+Added Pin To Net: NetName=NetDD3_37 Pin=DD3-37
+Added Pin To Net: NetName=NetDD3_37 Pin=R51-2
+Added Net: Name=NetDD3_37
+Added Pin To Net: NetName=NetDD3_41 Pin=DD3-41
+Added Pin To Net: NetName=NetDD3_41 Pin=R32-1
+Added Net: Name=NetDD3_41
+Added Pin To Net: NetName=NetDD3_42 Pin=DD3-42
+Added Pin To Net: NetName=NetDD3_42 Pin=R34-1
+Added Net: Name=NetDD3_42
+Added Pin To Net: NetName=NetDD3_43 Pin=DD3-43
+Added Pin To Net: NetName=NetDD3_43 Pin=R36-1
+Added Net: Name=NetDD3_43
+Added Pin To Net: NetName=NetDD3_44 Pin=DD3-44
+Added Pin To Net: NetName=NetDD3_44 Pin=R38-1
+Added Net: Name=NetDD3_44
+Added Pin To Net: NetName=NetDD3_45 Pin=DD3-45
+Added Pin To Net: NetName=NetDD3_45 Pin=R40-1
+Added Net: Name=NetDD3_45
+Added Pin To Net: NetName=NetDD3_46 Pin=DD3-46
+Added Pin To Net: NetName=NetDD3_46 Pin=R42-1
+Added Net: Name=NetDD3_46
+Added Pin To Net: NetName=NetDD3_47 Pin=DD3-47
+Added Pin To Net: NetName=NetDD3_47 Pin=R44-1
+Added Net: Name=NetDD3_47
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=TP1-1
+Added Pin To Net: NetName=NetF1_1 Pin=J1-A4
+Added Pin To Net: NetName=NetF1_1 Pin=J1-A9
+Added Pin To Net: NetName=NetF1_1 Pin=J1-B4
+Added Pin To Net: NetName=NetF1_1 Pin=J1-B9
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=T1-1
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=R53-2
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetR53_1 Pin=R53-1
+Added Pin To Net: NetName=NetR53_1 Pin=T1-3
+Added Net: Name=NetR53_1
+Added Pin To Net: NetName=NetR54_1 Pin=R54-1
+Added Pin To Net: NetName=NetR54_1 Pin=T1-4
+Added Net: Name=NetR54_1
+Added Pin To Net: NetName=NetT1_6 Pin=T1-6
+Added Pin To Net: NetName=NetT1_6 Pin=VD5-2
+Added Pin To Net: NetName=NetT1_6 Pin=VD6-1
+Added Pin To Net: NetName=NetT1_6 Pin=VD8-2
+Added Net: Name=NetT1_6
+Added Pin To Net: NetName=Output Pin=DD3-31
+Added Pin To Net: NetName=Output Pin=VD5-1
+Added Net: Name=Output
+Added Class: Name=Processing
+Added Member To Class: ClassName=Power Member=Component F1 MFU0603FF03150P500
+Added Room: Name=Power
+Added Room: Name=Processing

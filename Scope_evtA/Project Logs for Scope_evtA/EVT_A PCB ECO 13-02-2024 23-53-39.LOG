@@ -1,0 +1,119 @@
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C13 NewDesignator=C14
+Change Component Designator: OldDesignator=C14 NewDesignator=C15
+Change Component Designator: OldDesignator=C15 NewDesignator=C16
+Change Component Designator: OldDesignator=C16 NewDesignator=C17
+Change Component Designator: OldDesignator=C17 NewDesignator=C18
+Change Component Designator: OldDesignator=C18 NewDesignator=C19
+Change Component Designator: OldDesignator=C19 NewDesignator=C20
+Change Component Designator: OldDesignator=C20 NewDesignator=C21
+Change Component Designator: OldDesignator=C21 NewDesignator=C22
+Change Component Designator: OldDesignator=C22 NewDesignator=C23
+Change Component Designator: OldDesignator=C23 NewDesignator=C24
+Change Component Designator: OldDesignator=C24 NewDesignator=C25
+Change Component Designator: OldDesignator=C25 NewDesignator=C26
+Change Component Designator: OldDesignator=C26 NewDesignator=C27
+Change Component Designator: OldDesignator=C27 NewDesignator=C28
+Change Component Designator: OldDesignator=C28 NewDesignator=C29
+Change Component Designator: OldDesignator=C29 NewDesignator=C30
+Change Component Designator: OldDesignator=C30 NewDesignator=C31
+Change Component Designator: OldDesignator=C31 NewDesignator=C32
+Change Component Designator: OldDesignator=C32 NewDesignator=C33
+Change Component Designator: OldDesignator=C33 NewDesignator=C34
+Change Component Designator: OldDesignator=C34 NewDesignator=C35
+Change Component Designator: OldDesignator=C35 NewDesignator=C36
+Change Component Designator: OldDesignator=C36 NewDesignator=C37
+Change Component Designator: OldDesignator=C37 NewDesignator=C38
+Change Component Designator: OldDesignator=C38 NewDesignator=C39
+Change Component Designator: OldDesignator=C39 NewDesignator=C40
+Change Component Designator: OldDesignator=C40 NewDesignator=C41
+Change Component Designator: OldDesignator=C41 NewDesignator=C42
+Change Component Designator: OldDesignator=C42 NewDesignator=C43
+Change Component Designator: OldDesignator=C43 NewDesignator=C44
+Change Component Designator: OldDesignator=C44 NewDesignator=C45
+Change Component Designator: OldDesignator=C45 NewDesignator=C46
+Change Component Designator: OldDesignator=C46 NewDesignator=C47
+Change Component Designator: OldDesignator=C47 NewDesignator=C48
+Change Component Designator: OldDesignator=C48 NewDesignator=C49
+Change Component Designator: OldDesignator=C49 NewDesignator=C50
+Change Component Designator: OldDesignator=C50 NewDesignator=C51
+Change Component Designator: OldDesignator=C51 NewDesignator=C52
+Change Component Designator: OldDesignator=C52 NewDesignator=C53
+Change Component Designator: OldDesignator=C53 NewDesignator=C54
+Change Component Designator: OldDesignator=C54 NewDesignator=C55
+Change Component Designator: OldDesignator=C55 NewDesignator=C56
+Change Component Designator: OldDesignator=C56 NewDesignator=C57
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R2
+Change Component Designator: OldDesignator=R23 NewDesignator=R24
+Change Component Designator: OldDesignator=R24 NewDesignator=R25
+Change Component Designator: OldDesignator=R25 NewDesignator=R26
+Change Component Designator: OldDesignator=R26 NewDesignator=R27
+Change Component Designator: OldDesignator=R27 NewDesignator=R28
+Change Component Designator: OldDesignator=R28 NewDesignator=R29
+Change Component Designator: OldDesignator=R29 NewDesignator=R30
+Change Component Designator: OldDesignator=R30 NewDesignator=R31
+Change Component Designator: OldDesignator=R31 NewDesignator=R32
+Change Component Designator: OldDesignator=R32 NewDesignator=R33
+Change Component Designator: OldDesignator=R33 NewDesignator=R34
+Change Component Designator: OldDesignator=R34 NewDesignator=R35
+Change Component Designator: OldDesignator=R35 NewDesignator=R36
+Change Component Designator: OldDesignator=R36 NewDesignator=R37
+Change Component Designator: OldDesignator=R37 NewDesignator=R38
+Change Component Designator: OldDesignator=R38 NewDesignator=R39
+Change Component Designator: OldDesignator=R39 NewDesignator=R40
+Change Component Designator: OldDesignator=R40 NewDesignator=R41
+Change Component Designator: OldDesignator=R41 NewDesignator=R42
+Added Component: Designator=C9(C0603)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R23(R0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_1 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC10_1
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetC13_1 New Net Name=NetC14_1
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC14_2
+Change Net Name : Old Net Name=NetC15_2 New Net Name=NetC16_2
+Change Net Name : Old Net Name=NetC26_1 New Net Name=NetC27_1
+Change Net Name : Old Net Name=NetC30_1 New Net Name=NetC31_1
+Change Net Name : Old Net Name=NetC37_1 New Net Name=NetC38_1
+Change Net Name : Old Net Name=NetC43_2 New Net Name=NetC44_2
+Change Net Name : Old Net Name=NetC44_1 New Net Name=NetC45_1
+Change Net Name : Old Net Name=NetC48_1 New Net Name=NetC49_1
+Change Net Name : Old Net Name=NetC51_1 New Net Name=NetC52_1
+Change Net Name : Old Net Name=NetC52_1 New Net Name=NetC53_1
+Change Net Name : Old Net Name=NetC53_2 New Net Name=NetC54_2
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=NetC9_1
+Added Pin To Net: NetName=NetDD1_29 Pin=DD1-29
+Added Pin To Net: NetName=NetDD1_29 Pin=R23-2
+Added Net: Name=NetDD1_29
+Added Pin To Net: NetName=Trigger Pin=R10-2
+Added Pin To Net: NetName=Trigger Pin=R11-2
+Added Pin To Net: NetName=Trigger Pin=R23-1
+Added Net: Name=Trigger
+Added Member To Class: ClassName=Main Member=Component C27 10p
+Added Member To Class: ClassName=Main Member=Component R31 1.5k
+Added Room: Name=Main
+Added Room: Name=Power

@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=S1 Old Footprint=MS093-10C New Footprint=13_13_5mm
+Change Component Footprint: Designator=S2 Old Footprint=MS093-10C New Footprint=13_13_5mm
+Change Component Comment : Designator=S1 Old Comment=MS093-10C New Comment=MS130-10S
+Change Component Comment : Designator=S2 Old Comment=MS093-10C New Comment=MS130-10S
+Change component parameters: Designator = "S1" ("S1"); Footprint = "MS093-10C"; UniqueID = "\CSKILALR" ("\CSKILALR")
+Change component parameters (AddParameter): Name = "Case"; Value = "13 x 13 x 5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Shields"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://api.masach.com/media/catalog/product/file/MS128-10.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Masach/MS130-10S?qs=pUKx8fyJudDNyG0ZPUxt%2FA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Masach Tech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "MS130-10S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13 x 13 x 5mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S2" ("S2"); Footprint = "MS093-10C"; UniqueID = "\NANMBHMY" ("\NANMBHMY")
+Change component parameters (AddParameter): Name = "Case"; Value = "13 x 13 x 5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Shields"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://api.masach.com/media/catalog/product/file/MS128-10.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Masach/MS130-10S?qs=pUKx8fyJudDNyG0ZPUxt%2FA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Masach Tech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "MS130-10S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13 x 13 x 5mm"; VariantName = "[No Variations]"
+Added Room: Name=Digital

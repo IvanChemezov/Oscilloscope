@@ -1,0 +1,70 @@
+Removed Member From Class: ClassName=Processing Member=TP2
+Added Component: Designator=R27(R0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Added Component: Designator=R28(R0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Added Component: Designator=R29(R0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Added Component: Designator=R31(R0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/210/kamaya_products_RGC__english_20170424_101024-1651573.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Kamaya/RGC1-16SC1001DTH?qs=KAq9QXcE8HAz3iV8i32W5A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDD3_17 Pin=R27-1
+Added Pin To Net: NetName=D_0 Pin=R27-2
+Added Pin To Net: NetName=NetDD3_18 Pin=R28-1
+Added Pin To Net: NetName=D_1 Pin=R28-2
+Added Pin To Net: NetName=NetDD3_19 Pin=R29-1
+Added Pin To Net: NetName=D_2 Pin=R29-2
+Added Pin To Net: NetName=NetDD3_41 Pin=R31-1
+Added Pin To Net: NetName=D_3 Pin=R31-2
+Added Member To Class: ClassName=Power Member=Component R14 5k1
+Added Member To Class: ClassName=Power Member=Component R15 1M
+Added Member To Class: ClassName=Processing Member=Component R19 22 R
+Added Member To Class: ClassName=Processing Member=Component R22 22 R
+Added Member To Class: ClassName=Processing Member=Component R23 1M
+Added Member To Class: ClassName=Processing Member=Component R25 10 k
+Added Member To Class: ClassName=Processing Member=Component R27 1.5k
+Added Member To Class: ClassName=Processing Member=Component R28 1.5k
+Added Member To Class: ClassName=Processing Member=Component R29 1.5k
+Added Member To Class: ClassName=Processing Member=Component R31 1.5k
+Added Member To Class: ClassName=Processing Member=Component R32 1.5k
+Added Member To Class: ClassName=Processing Member=Component R34 1.5k
+Added Member To Class: ClassName=Processing Member=Component R35 1.5k
+Added Member To Class: ClassName=Processing Member=Component R37 1.5k
+Added Member To Class: ClassName=Processing Member=Component R38 20k
+Added Member To Class: ClassName=Processing Member=Component R41 1.5k
+Added Member To Class: ClassName=Processing Member=Component R43 1.5k
+Added Member To Class: ClassName=Processing Member=Component R45 1.5k
+Added Member To Class: ClassName=Processing Member=Component R47 1.5k
+Added Member To Class: ClassName=Processing Member=Component R49 22 R
+Added Member To Class: ClassName=Processing Member=Component R51 22 R
+Added Member To Class: ClassName=Processing Member=Component R53 1.5k
+Added Member To Class: ClassName=Processing Member=Component TP4 5117
+Added Room: Name=Power
+Added Room: Name=Processing

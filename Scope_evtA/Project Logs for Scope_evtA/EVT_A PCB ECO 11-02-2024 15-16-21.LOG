@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=+3.3VDC Pin=TP1-1
+Removed Pin From Net: NetName=+3.3VDC Pin=VD2-1
+Removed Pin From Net: NetName=LED_G Pin=VD2-3
+Removed Pin From Net: NetName=LED_B Pin=VD2-4
+Removed Member From Class: ClassName=Power Member=C25
+Removed Member From Class: ClassName=Main Member=J3
+Removed Member From Class: ClassName=Main Member=R13
+Removed Member From Class: ClassName=Power Member=S1
+Removed Member From Class: ClassName=Power Member=S2
+Removed Member From Class: ClassName=Main Member=TP1
+Change Component Footprint: Designator=VD2 Old Footprint=0404(RGB LED) New Footprint=SMD5050
+Change Component Comment : Designator=VD2 Old Comment=150044M155260 New Comment=WS2812C
+Change component parameters: Designator = "VD2" ("VD2"); Footprint = "0404(RGB LED)"; UniqueID = "\UBNCUITI" ("\UBNCUITI")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD5050"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "RGB LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/lcsc/1810231210_Worldsemi-WS2812C_C114587.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812C_C114587.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "WS2812C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "RGB"; VariantName = "[No Variations]"
+Added Component: Designator=C51(C0402)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murate"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "GRM155C81H104ME14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C51-2
+Added Pin To Net: NetName=GND Pin=VD2-3
+Added Pin To Net: NetName=+4VDC Pin=C51-1
+Added Pin To Net: NetName=+4VDC Pin=VD2-1
+Added Net: Name=+4VDC
+Added Pin To Net: NetName=PWM_LED Pin=VD2-4
+Added Net: Name=PWM_LED
+Added Member To Class: ClassName=Main Member=Component C12 0.1u
+Added Member To Class: ClassName=Main Member=Component C17 0.1u
+Added Member To Class: ClassName=Main Member=Component C24 10p
+Added Member To Class: ClassName=Power Member=Component C28 *
+Added Member To Class: ClassName=Power Member=Component C29 *
+Added Member To Class: ClassName=Power Member=Component C30 *
+Added Member To Class: ClassName=Power Member=Component C37 *
+Added Member To Class: ClassName=Power Member=Component C42 4.7u
+Added Member To Class: ClassName=Power Member=Component C44 0.1u
+Added Member To Class: ClassName=Power Member=Component C46 0.1u
+Added Member To Class: ClassName=Power Member=Component C48 4.7u
+Added Member To Class: ClassName=Power Member=Component C50 4.7u
+Added Member To Class: ClassName=Main Member=Component C51 0.1u
+Added Member To Class: ClassName=Main Member=Component J2 112640
+Added Member To Class: ClassName=Main Member=Component R6 1M
+Added Member To Class: ClassName=Main Member=Component S1 MS130-10S
+Added Member To Class: ClassName=Main Member=Component S2 MS130-10S
+Added Member To Class: ClassName=Main Member=Component TP4 5117
+Added Room: Name=Main
+Added Room: Name=Power
