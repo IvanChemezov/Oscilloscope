@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=+Vin Pin=C57-1
+Removed Pin From Net: NetName=GND Pin=C57-2
+Removed Pin From Net: NetName=+Vin Pin=C58-1
+Removed Pin From Net: NetName=GND Pin=C58-2
+Removed Pin From Net: NetName=+3.3VDC Pin=C66-1
+Removed Pin From Net: NetName=GND Pin=C66-2
+Removed Pin From Net: NetName=+3.3VDC Pin=C67-1
+Removed Pin From Net: NetName=GND Pin=C67-2
+Removed Pin From Net: NetName=GND Pin=C70-2
+Removed Pin From Net: NetName=GND Pin=DD5-2
+Removed Pin From Net: NetName=DAC_Out Pin=DD5-3
+Removed Pin From Net: NetName=SD_Output Pin=DD5-5
+Removed Pin From Net: NetName=+Vin Pin=DD5-6
+Removed Pin From Net: NetName=GND Pin=DD6-2
+Removed Pin From Net: NetName=SD_Input Pin=DD6-5
+Removed Pin From Net: NetName=+3.3VDC Pin=DD6-6
+Removed Pin From Net: NetName=ADC_CLK Pin=DD7-9
+Removed Member From Class: ClassName=Analog Member=C57
+Removed Member From Class: ClassName=Analog Member=C58
+Removed Member From Class: ClassName=Analog Member=C66
+Removed Member From Class: ClassName=Analog Member=C67
+Removed Member From Class: ClassName=Analog Member=C70
+Removed Member From Class: ClassName=Analog Member=DD5
+Removed Member From Class: ClassName=Analog Member=DD6
+Removed Member From Class: ClassName=Analog Member=R27
+Removed Member From Class: ClassName=MCU Member=R45
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=In-Out Pin=R?-1
+Added Pin To Net: NetName=In-Out Pin=T1-6
+Added Pin To Net: NetName=In-Out Pin=VD4-2
+Added Net: Name=In-Out
+Added Member To Class: ClassName=MCU Member=Component R44 22 R
+Added Member To Class: ClassName=MCU Member=Component R? 22 R
+Added Room: Name=Analog
+Added Room: Name=MCU
+Added Room: Name=Power

@@ -1,0 +1,97 @@
+Removed Pin From Net: NetName=OTR Pin=R42-1
+Removed Pin From Net: NetName=PDWN Pin=R43-1
+Removed Pin From Net: NetName=PWM_LED Pin=R47-1
+Removed Member From Class: ClassName=Analog Member=R41
+Removed Member From Class: ClassName=MCU Member=R53
+Removed Member From Class: ClassName=MCU Member=R?
+Change Component Designator: OldDesignator=C59 NewDesignator=C57
+Change Component Designator: OldDesignator=C60 NewDesignator=C58
+Change Component Designator: OldDesignator=C61 NewDesignator=C59
+Change Component Designator: OldDesignator=C62 NewDesignator=C60
+Change Component Designator: OldDesignator=C63 NewDesignator=C61
+Change Component Designator: OldDesignator=C64 NewDesignator=C62
+Change Component Designator: OldDesignator=C65 NewDesignator=C63
+Change Component Designator: OldDesignator=C68 NewDesignator=C64
+Change Component Designator: OldDesignator=C69 NewDesignator=C65
+Change Component Designator: OldDesignator=C71 NewDesignator=C66
+Change Component Designator: OldDesignator=C72 NewDesignator=C67
+Change Component Designator: OldDesignator=C73 NewDesignator=C68
+Change Component Designator: OldDesignator=C74 NewDesignator=C69
+Change Component Designator: OldDesignator=C75 NewDesignator=C70
+Change Component Designator: OldDesignator=C76 NewDesignator=C71
+Change Component Designator: OldDesignator=C77 NewDesignator=C72
+Change Component Designator: OldDesignator=C78 NewDesignator=C73
+Change Component Designator: OldDesignator=C79 NewDesignator=C74
+Change Component Designator: OldDesignator=C80 NewDesignator=C75
+Change Component Designator: OldDesignator=C81 NewDesignator=C76
+Change Component Designator: OldDesignator=C82 NewDesignator=C77
+Change Component Designator: OldDesignator=C83 NewDesignator=C78
+Change Component Designator: OldDesignator=C84 NewDesignator=C79
+Change Component Designator: OldDesignator=DD7 NewDesignator=DD5
+Change Component Designator: OldDesignator=R23 NewDesignator=R24
+Change Component Designator: OldDesignator=R24 NewDesignator=R25
+Change Component Designator: OldDesignator=R25 NewDesignator=R27
+Change Component Designator: OldDesignator=R26 NewDesignator=R28
+Change Component Designator: OldDesignator=R28 NewDesignator=R29
+Change Component Designator: OldDesignator=R29 NewDesignator=R23
+Change Component Designator: OldDesignator=R34 NewDesignator=R26
+Change Component Designator: OldDesignator=R35 NewDesignator=R34
+Change Component Designator: OldDesignator=R36 NewDesignator=R35
+Change Component Designator: OldDesignator=R37 NewDesignator=R36
+Change Component Designator: OldDesignator=R38 NewDesignator=R37
+Change Component Designator: OldDesignator=R39 NewDesignator=R38
+Change Component Designator: OldDesignator=R40 NewDesignator=R39
+Change Component Designator: OldDesignator=R41 NewDesignator=R40
+Change Component Designator: OldDesignator=R46 NewDesignator=R45
+Change Component Designator: OldDesignator=R47 NewDesignator=R46
+Change Component Designator: OldDesignator=R48 NewDesignator=R41
+Change Component Designator: OldDesignator=R49 NewDesignator=R42
+Change Component Designator: OldDesignator=R50 NewDesignator=R48
+Change Component Designator: OldDesignator=R51 NewDesignator=R49
+Change Component Designator: OldDesignator=R52 NewDesignator=R50
+Change Component Designator: OldDesignator=R53 NewDesignator=R51
+Change Component Designator: OldDesignator=R? NewDesignator=R43
+Added Component: Designator=R47(R0603)
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "ERJ-2GEJ220X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADC_CLK Pin=DD5-8
+Added Pin To Net: NetName=OTR Pin=R44-1
+Added Pin To Net: NetName=PDWN Pin=R46-1
+Added Pin To Net: NetName=PWM_LED Pin=R47-1
+Change Net Name : Old Net Name=NetC68_1 New Net Name=NetC64_1
+Change Net Name : Old Net Name=NetC68_2 New Net Name=NetC64_2
+Change Net Name : Old Net Name=NetC71_2 New Net Name=NetC66_2
+Change Net Name : Old Net Name=NetC75_1 New Net Name=NetC70_1
+Change Net Name : Old Net Name=NetC76_1 New Net Name=NetC71_1
+Change Net Name : Old Net Name=NetDD7_5 New Net Name=NetDD5_5
+Change Net Name : Old Net Name=NetDD7_14 New Net Name=NetDD5_14
+Change Net Name : Old Net Name=NetDD7_15 New Net Name=NetDD5_15
+Change Net Name : Old Net Name=NetDD7_32 New Net Name=NetDD5_32
+Change Net Name : Old Net Name=NetDD7_36 New Net Name=NetDD5_36
+Change Net Name : Old Net Name=NetDD7_37 New Net Name=NetDD5_37
+Change Net Name : Old Net Name=NetR29_1 New Net Name=NetR23_1
+Change Net Name : Old Net Name=NetR34_1 New Net Name=NetR26_1
+Added Pin To Net: NetName=NetDD5_9 Pin=DD5-9
+Added Pin To Net: NetName=NetDD5_9 Pin=R41-1
+Added Net: Name=NetDD5_9
+Added Pin To Net: NetName=NetDD5_10 Pin=DD5-10
+Added Pin To Net: NetName=NetDD5_10 Pin=R42-2
+Added Net: Name=NetDD5_10
+Added Pin To Net: NetName=NetDD5_11 Pin=DD5-11
+Added Pin To Net: NetName=NetDD5_11 Pin=DD5-12
+Added Pin To Net: NetName=NetDD5_11 Pin=R43-2
+Added Net: Name=NetDD5_11
+Added Pin To Net: NetName=NetDD5_13 Pin=DD5-13
+Added Pin To Net: NetName=NetDD5_13 Pin=R44-2
+Added Net: Name=NetDD5_13
+Added Pin To Net: NetName=NetDD5_31 Pin=DD5-31
+Added Pin To Net: NetName=NetDD5_31 Pin=R47-2
+Added Net: Name=NetDD5_31
+Added Member To Class: ClassName=Analog Member=Component R27 22 R
+Added Member To Class: ClassName=MCU Member=Component R47 22 R
