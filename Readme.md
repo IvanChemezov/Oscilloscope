@@ -1,5 +1,5 @@
 # Description of the project
-
+![Schematic]("D:\It's_work\Scope\Scope_evtA\Ver5.PDF")
 ## Goals:
 Learn more about electronics via DIYproject. Technologies which need to be used and learned are: low noise readout electronics, USB as a main data line, space compound. Shielding of pcbs,  wireless connection - additional.
 
