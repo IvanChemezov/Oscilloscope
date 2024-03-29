@@ -1,19 +1,18 @@
 Protel Design System Design Rule Check
 PCB File : D:\It's_work\Scope\Scope\Scope_evtA\EVT_A.PcbDoc
-Date     : 24/03/2024
-Time     : 15:09:50
+Date     : 29/03/2024
+Time     : 13:37:21
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=0.127mm) (IsStitchingVia and InNet('GND')),((IsVia and (Not IsStitchingVia)) Or IsPad)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
+   Violation between Un-Routed Net Constraint: Net NetJ3_2 Between Via (1.5mm,5mm) from Top Layer to Bottom Layer And Via (1.5mm,15mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net AGND Between Via (1.5mm,25mm) from Top Layer to Bottom Layer And Via (1.5mm,35mm) from Top Layer to Bottom Layer 
+Rule Violations :2
 
 Processing Rule : Width Constraint (Min=0.5mm) (Max=2mm) (Preferred=0.55mm) (All)
 Rule Violations :0
@@ -24,7 +23,7 @@ Rule Violations :0
 Processing Rule : Routing Layers(All)
 Rule Violations :0
 
-Processing Rule : Routing Via (MinHoleWidth=0.3mm) (MaxHoleWidth=1mm) (PreferredHoleWidth=0.5mm) (MinWidth=0.6mm) (MaxWidth=2mm) (PreferedWidth=1mm) (All)
+Processing Rule : Routing Via (MinHoleWidth=0.15mm) (MaxHoleWidth=1mm) (PreferredHoleWidth=0.3mm) (MinWidth=0.3mm) (MaxWidth=2mm) (PreferedWidth=0.6mm) (All)
 Rule Violations :0
 
 Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.3mm) (Max=0.4mm) (Prefered=0.35mm)  and Width Constraints (Min=0.2mm) (Max=0.6mm) (Prefered=0.45mm) (All)
@@ -33,19 +32,19 @@ Rule Violations :0
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.6mm) (Conductor Width=0.5mm) (Air Gap=0.4mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Minimum Annular Ring (Minimum=0.15mm) (All)
-   Violation between Minimum Annular Ring: (0.1mm < 0.15mm) Pad J1-B1(38.01mm,22.8mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.15mm) Pad J1-B10(38.71mm,18.4mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.15mm) Pad J1-B11(38.71mm,17.6mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.15mm) Pad J1-B12(38.01mm,17.2mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.15mm) Pad J1-B2(38.71mm,22.4mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.15mm) Pad J1-B3(38.71mm,21.6mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.15mm) Pad J1-B4(38.01mm,21.2mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.15mm) Pad J1-B5(38.71mm,20.8mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.15mm) Pad J1-B6(38.01mm,20.4mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.15mm) Pad J1-B7(38.01mm,19.6mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.15mm) Pad J1-B8(38.71mm,19.2mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.15mm) Pad J1-B9(38.01mm,18.8mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
+Processing Rule : Minimum Annular Ring (Minimum=0.13mm) (All)
+   Violation between Minimum Annular Ring: (0.1mm < 0.13mm) Pad J1-B1(38.01mm,22.8mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.1mm < 0.13mm) Pad J1-B10(38.71mm,18.4mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.1mm < 0.13mm) Pad J1-B11(38.71mm,17.6mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.1mm < 0.13mm) Pad J1-B12(38.01mm,17.2mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.1mm < 0.13mm) Pad J1-B2(38.71mm,22.4mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.1mm < 0.13mm) Pad J1-B3(38.71mm,21.6mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.1mm < 0.13mm) Pad J1-B4(38.01mm,21.2mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.1mm < 0.13mm) Pad J1-B5(38.71mm,20.8mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.1mm < 0.13mm) Pad J1-B6(38.01mm,20.4mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.1mm < 0.13mm) Pad J1-B7(38.01mm,19.6mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.1mm < 0.13mm) Pad J1-B8(38.71mm,19.2mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.1mm < 0.13mm) Pad J1-B9(38.01mm,18.8mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
 Rule Violations :12
 
 Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
@@ -54,24 +53,8 @@ Rule Violations :0
 Processing Rule : Pads and Vias to follow the Drill pairs settings
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=0.5mm) (All),(All)
-   Violation between Hole To Hole Clearance Constraint: (0.406mm < 0.5mm) Between Pad J1-B1(38.01mm,22.8mm) on Multi-Layer And Pad J1-B2(38.71mm,22.4mm) on Multi-Layer 
-   Violation between Hole To Hole Clearance Constraint: (0.4mm < 0.5mm) Between Pad J1-B10(38.71mm,18.4mm) on Multi-Layer And Pad J1-B11(38.71mm,17.6mm) on Multi-Layer 
-   Violation between Hole To Hole Clearance Constraint: (0.4mm < 0.5mm) Between Pad J1-B10(38.71mm,18.4mm) on Multi-Layer And Pad J1-B8(38.71mm,19.2mm) on Multi-Layer 
-   Violation between Hole To Hole Clearance Constraint: (0.406mm < 0.5mm) Between Pad J1-B10(38.71mm,18.4mm) on Multi-Layer And Pad J1-B9(38.01mm,18.8mm) on Multi-Layer 
-   Violation between Hole To Hole Clearance Constraint: (0.406mm < 0.5mm) Between Pad J1-B11(38.71mm,17.6mm) on Multi-Layer And Pad J1-B12(38.01mm,17.2mm) on Multi-Layer 
-   Violation between Hole To Hole Clearance Constraint: (0.4mm < 0.5mm) Between Pad J1-B2(38.71mm,22.4mm) on Multi-Layer And Pad J1-B3(38.71mm,21.6mm) on Multi-Layer 
-   Violation between Hole To Hole Clearance Constraint: (0.406mm < 0.5mm) Between Pad J1-B3(38.71mm,21.6mm) on Multi-Layer And Pad J1-B4(38.01mm,21.2mm) on Multi-Layer 
-   Violation between Hole To Hole Clearance Constraint: (0.4mm < 0.5mm) Between Pad J1-B3(38.71mm,21.6mm) on Multi-Layer And Pad J1-B5(38.71mm,20.8mm) on Multi-Layer 
-   Violation between Hole To Hole Clearance Constraint: (0.406mm < 0.5mm) Between Pad J1-B4(38.01mm,21.2mm) on Multi-Layer And Pad J1-B5(38.71mm,20.8mm) on Multi-Layer 
-   Violation between Hole To Hole Clearance Constraint: (0.4mm < 0.5mm) Between Pad J1-B4(38.01mm,21.2mm) on Multi-Layer And Pad J1-B6(38.01mm,20.4mm) on Multi-Layer 
-   Violation between Hole To Hole Clearance Constraint: (0.406mm < 0.5mm) Between Pad J1-B5(38.71mm,20.8mm) on Multi-Layer And Pad J1-B6(38.01mm,20.4mm) on Multi-Layer 
-   Violation between Hole To Hole Clearance Constraint: (0.4mm < 0.5mm) Between Pad J1-B6(38.01mm,20.4mm) on Multi-Layer And Pad J1-B7(38.01mm,19.6mm) on Multi-Layer 
-   Violation between Hole To Hole Clearance Constraint: (0.406mm < 0.5mm) Between Pad J1-B7(38.01mm,19.6mm) on Multi-Layer And Pad J1-B8(38.71mm,19.2mm) on Multi-Layer 
-   Violation between Hole To Hole Clearance Constraint: (0.4mm < 0.5mm) Between Pad J1-B7(38.01mm,19.6mm) on Multi-Layer And Pad J1-B9(38.01mm,18.8mm) on Multi-Layer 
-   Violation between Hole To Hole Clearance Constraint: (0.406mm < 0.5mm) Between Pad J1-B8(38.71mm,19.2mm) on Multi-Layer And Pad J1-B9(38.01mm,18.8mm) on Multi-Layer 
-   Violation between Hole To Hole Clearance Constraint: (0.325mm < 0.5mm) Between Via (22.004mm,22.379mm) from Top Layer to Bottom Layer And Via (22.446mm,22.821mm) from Top Layer to Bottom Layer 
-Rule Violations :16
+Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
+Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
    Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.1mm) Between Pad DA2-1(20.1mm,34.55mm) on Top Layer And Pad DA2-2(20.1mm,34.05mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
@@ -138,8 +121,6 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
    Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.1mm) Between Pad DD5-6(33.8mm,8.75mm) on Bottom Layer And Pad DD5-7(33.8mm,8.25mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.098mm]
    Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.1mm) Between Pad DD5-7(33.8mm,8.25mm) on Bottom Layer And Pad DD5-8(33.8mm,7.75mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.098mm]
    Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.1mm) Between Pad DD5-8(33.8mm,7.75mm) on Bottom Layer And Pad DD5-9(33.8mm,7.25mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.098mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.078mm < 0.1mm) Between Pad J1-(37.36mm,23.6mm) on Multi-Layer And Pad J1-A12(36.8mm,22.75mm) on Top Layer [Top Solder] Mask Sliver [0.078mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.078mm < 0.1mm) Between Pad J1-A12(36.8mm,22.75mm) on Top Layer And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [0.078mm]
    Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.1mm) Between Pad U1-1A(14.2mm,3.2mm) on Bottom Layer And Pad U1-1B(13.8mm,3.2mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.098mm]
    Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.1mm) Between Pad U1-1A(14.2mm,3.2mm) on Bottom Layer And Pad U1-2A(14.2mm,3.6mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.098mm]
    Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.1mm) Between Pad U1-1B(13.8mm,3.2mm) on Bottom Layer And Pad U1-1C(13.4mm,3.2mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.098mm]
@@ -154,23 +135,10 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
    Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.1mm) Between Pad U2-1C(10.3mm,19.5mm) on Top Layer And Pad U2-2C(10.7mm,19.5mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
    Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.1mm) Between Pad U2-2A(10.7mm,20.3mm) on Top Layer And Pad U2-2B(10.7mm,19.9mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
    Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.1mm) Between Pad U2-2B(10.7mm,19.9mm) on Top Layer And Pad U2-2C(10.7mm,19.5mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
-Rule Violations :80
+Rule Violations :78
 
 Processing Rule : Silk To Solder Mask (Clearance=0.2mm) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (0.194mm < 0.2mm) Between Arc (34.4mm,17.7mm) on Bottom Overlay And Pad R6-1(34.4mm,15.8mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.194mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.194mm < 0.2mm) Between Arc (8.6mm,25.2mm) on Top Overlay And Pad FB4-1(10.5mm,25.2mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.194mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.2mm) Between Pad C41-2(6.8mm,21.7mm) on Top Layer And Region (0 hole(s)) Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.125mm < 0.2mm) Between Pad G1-1(38.425mm,8.325mm) on Bottom Layer And Track (37.8mm,8.9mm)(40.6mm,8.9mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.125mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.125mm < 0.2mm) Between Pad G1-2(39.775mm,8.325mm) on Bottom Layer And Track (37.8mm,8.9mm)(40.6mm,8.9mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.125mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.173mm < 0.2mm) Between Pad R12-2(2.8mm,17mm) on Bottom Layer And Track (3.6mm,16.4mm)(3.6mm,18.6mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.173mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.198mm < 0.2mm) Between Pad R15-1(15.1mm,35mm) on Top Layer And Track (14.275mm,33.1mm)(14.275mm,35.3mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.198mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.2mm) Between Pad R17-2(18.5mm,34.6mm) on Top Layer And Region (0 hole(s)) Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.2mm) Between Pad R2-1(35mm,20.2mm) on Top Layer And Track (35.66mm,15.075mm)(35.66mm,24.925mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.2mm) Between Pad R3-1(35mm,22.4mm) on Top Layer And Track (35.66mm,15.075mm)(35.66mm,24.925mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.06mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.125mm < 0.2mm) Between Pad R33-1(42.4mm,35.9mm) on Top Layer And Track (41.7mm,35.3mm)(41.7mm,38.1mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.125mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.173mm < 0.2mm) Between Pad R4-2(41.4mm,21.2mm) on Bottom Layer And Track (39.5mm,20.4mm)(41.7mm,20.4mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.173mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.198mm < 0.2mm) Between Pad R42-2(36.8mm,1.5mm) on Bottom Layer And Track (35.975mm,1mm)(35.975mm,3.2mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.198mm]
-Rule Violations :13
+Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0.2mm) (All),(All)
 Rule Violations :0
@@ -188,6 +156,6 @@ Processing Rule : Silk primitive without silk layer
 Rule Violations :0
 
 
-Violations Detected : 121
+Violations Detected : 92
 Waived Violations : 0
 Time Elapsed        : 00:00:04
