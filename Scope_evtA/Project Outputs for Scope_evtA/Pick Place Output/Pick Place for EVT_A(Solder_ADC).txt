@@ -1,0 +1,250 @@
+Altium Designer Pick and Place Locations
+D:\It's_work\Scope\Scope_evtA\Project Outputs for Scope_evtA\Pick Place Output\Pick Place for EVT_A(Solder_ADC).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       06/04/24
+Time:       22:52
+Revision:   96a065bc237926ecf34b901cf5ad457e30612ea3
+Variant:    Solder_ADC
+Units used: mil
+
+Designator Comment            Layer       Footprint       Center-X(mil) Center-Y(mil) Rotation Description                                                                                                
+J1         TYPEC-309-ACP16L65 TopLayer    217179-0001     1620.079      787.402       90       "USB Connectors Top-Mnt SMT 16Ckt Type C Rec.
+"                                                           
+R47        "22 R"             BottomLayer R0603           821.604       294.278       0        "Res SMD
+"                                                                                                
+R43        "22 R"             TopLayer    R0603           625.984       362.205       270      "Res SMD
+"                                                                                                
+R44        "22 R"             BottomLayer R0603           1381.890      82.677        90       "Res SMD
+"                                                                                                
+R46        "22 R"             TopLayer    R0603           1283.465      1055.118      270      "Res SMD
+"                                                                                                
+R45        "22 R"             BottomLayer R0603           1295.276      82.677        90       "Res SMD
+"                                                                                                
+R39        "22 R"             BottomLayer R0603           821.604       207.664       0        "Res SMD
+"                                                                                                
+R38        "22 R"             BottomLayer R0603           821.604       121.050       0        "Res SMD
+"                                                                                                
+R37        "22 R"             BottomLayer R0603           921.260       118.110       90       "Res SMD
+"                                                                                                
+R35        "22 R"             TopLayer    R0603           1039.370      51.181        0        "Res SMD
+"                                                                                                
+R34        "22 R"             BottomLayer R0603           1610.236      1307.087      270      "Res SMD
+"                                                                                                
+R33        "22 R"             TopLayer    R0603           1704.724      1409.449      0        "Res SMD
+"                                                                                                
+R32        "22 R"             TopLayer    R0603           1704.724      1326.772      0        "Res SMD
+"                                                                                                
+R31        "22 R"             TopLayer    R0603           1704.724      1240.158      0        "Res SMD
+"                                                                                                
+R21        0R                 BottomLayer R0603           1496.063      1346.457      270      "Res SMD"                                                                                                  
+C79        0.1u               BottomLayer C0603           1153.543      98.425        270      "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C78        4.7uF              BottomLayer C0603           1039.370      55.118        180      "16V 4.7uF X7S ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                
+C77        0.1u               TopLayer    C0603           1370.079      417.323       270      "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+R51        "22 R"             BottomLayer R0603           1421.260      397.638       270      "Res SMD
+"                                                                                                
+R48        100R               BottomLayer R0603           821.604       380.893       0        "100mW Thick Film Resistors 75V ±100ppm/? ±5% 100O 0603 Chip Resistor - Surface Mount ROHS
+"              
+R42        5k1                BottomLayer R0603           1484.252      59.055        180      "100mW Thick Film Resistors 75V ±1% 5.1kO 0603 Chip Resistor - Surface Mount ROHS"                         
+R41        20k                BottomLayer R0603           1484.252      145.669       0        "Thick Film Resistors - SMD 0402 1K0 0.5%
+"                                                               
+DD3        AP3012KTR-G1       BottomLayer SOT-23-5        578.740       578.740       90       "Switching Voltage Regulators 1.5MHz DC/DC 2.6V to 16V"                                                    
+C76        0.1u               BottomLayer C0603           960.630       488.189       180      "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C75        0.1u               TopLayer    C0603           1287.402      417.323       270      "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C74        0.1u               BottomLayer C0603           1039.370      133.858       180      "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C73        4.7uF              TopLayer    C0603           1039.370      133.858       180      "16V 4.7uF X7S ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                
+C72        0.1u               BottomLayer C0603           90.551        893.701       180      "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C71        10p                BottomLayer C0603           1448.819      263.779       90       "50V 10pF C0G 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+
+"                                  
+C70        10p                BottomLayer C0603           1540.755      412.495       0        "50V 10pF C0G 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+
+"                                  
+C69        0.1u               BottomLayer C0603           1492.126      1480.315      270      "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C68        0.1u               BottomLayer C0603           1259.842      1480.315      270      "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C66        0.1u               TopLayer    C0603           1220.472      1527.559      0        "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C65        0.1u               BottomLayer C0603           1374.016      1448.819      180      "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C64        4.7uF              BottomLayer C0603           1374.016      1527.559      0        "16V 4.7uF X7S ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                
+C63        10p                TopLayer    C0603           1263.780      1330.709      270      "50V 10pF C0G 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+
+"                                  
+C62        10p                TopLayer    C0603           1185.039      1330.709      270      "50V 10pF C0G 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+
+"                                  
+C34        2.2n               BottomLayer C0603           582.677       681.102       0        "50V 2.2nF X7R ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+
+"                             
+C33        4.7uF              BottomLayer C0603           263.779       688.976       270      "16V 4.7uF X7S ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                
+C32        0.1u               BottomLayer C0603           342.520       688.976       270      "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C31        4.7uF              BottomLayer C0603           295.276       799.213       0        "16V 4.7uF X7S ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                
+C30        1u                 BottomLayer C0603           55.118        779.528       270      "25V 1uF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                                
+C15        4.7uF              BottomLayer C0603           307.087       440.945       180      "16V 4.7uF X7S ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                
+C14        0.1u               BottomLayer C0603           283.464       555.118       90       "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C13        0.1u               BottomLayer C0603           594.488       366.142       180      "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C12        4.7uF              BottomLayer C0603           740.158       468.504       0        "16V 4.7uF X7S ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                
+R10        10k                BottomLayer R0603           448.819       555.118       90       "100mW Thick Film Resistors 75V ±5% 10kO 0603 Chip Resistor - Surface Mount ROHS
+"                        
+R9         20k                BottomLayer R0603           370.079       555.118       270      "100mW Thick Film Resistors 75V ±5% 20kO 0603 Chip Resistor - Surface Mount ROHS
+"                        
+R18        "22 R"             TopLayer    R0603           996.063       1287.402      0        "Res SMD
+"                                                                                                
+R16        "22 R"             TopLayer    R0603           996.063       1374.016      0        "Res SMD
+"                                                                                                
+R15        1.5k               TopLayer    R0603           625.984       1377.953      0        "Thick Film Resistors - SMD 0402 1K0 0.5%
+"                                                               
+VD3        TPD2EUSB30ADRTR    BottomLayer SOT-9X3         657.480       1378.445      180      "ESD Suppressors / TVS Diodes 2 Channel ESD/ Surge Solution"                                               
+VD5        WS2812C            TopLayer    SMD5050         118.110       787.402       270      "RGB SMD5050 Light Emitting Diodes (LED) ROHS"                                                             
+R40        10k                BottomLayer R0603           1598.425      145.669       180      "100mW Thick Film Resistors 75V ±5% 10kO 0603 Chip Resistor - Surface Mount ROHS
+"                        
+R36        10k                TopLayer    R0603           1358.268      1527.559      0        "100mW Thick Film Resistors 75V ±5% 10kO 0603 Chip Resistor - Surface Mount ROHS
+"                        
+R26        100R               TopLayer    R0603           645.669       192.913       0        "100mW Thick Film Resistors 75V ±100ppm/? ±5% 100O 0603 Chip Resistor - Surface Mount ROHS
+"              
+R50        "22 R"             TopLayer    R0603           1566.929      374.016       180      "Res SMD
+"                                                                                                
+R23        10k                TopLayer    R0603           149.606       275.591       180      "100mW Thick Film Resistors 75V ±5% 10kO 0603 Chip Resistor - Surface Mount ROHS
+"                        
+R49        "22 R"             TopLayer    R0603           1566.929      236.220       180      "Res SMD
+"                                                                                                
+R30        "22 R"             TopLayer    R0603           1704.724      1153.543      0        "Res SMD
+"                                                                                                
+DA3        AD9245BCPZ-20      TopLayer    LFCSP-32_AD9245 1440.945      1352.362      90       "Analog to Digital Converters - ADC 14-Bit, 20 MSPS/40 MSPS/65 MSPS/80 MSPS 3 V A/D Converter"             
+C67        4.7uF              TopLayer    C0603           1066.929      1527.559      180      "16V 4.7uF X7S ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                
+C50        0.1u               TopLayer    C0603           791.339       1488.189      270      "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C49        1u                 BottomLayer C0603           870.079       1480.315      270      "25V 1uF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                                
+C48        0.1u               TopLayer    C0603           870.079       1488.189      270      "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C47        0.1u               TopLayer    C0603           948.819       1488.189      270      "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C46        1u                 BottomLayer C0603           948.819       1480.315      270      "25V 1uF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                                
+C45        390p               TopLayer    C0603           311.024       992.126       180      "50V 390pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                               
+C44        0.1u               TopLayer    C0603           578.740       960.630       0        "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C43        4.7uF              TopLayer    C0603           578.740       881.890       0        "16V 4.7uF X7S ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                
+C61        0.1u               TopLayer    C0603           1220.472      1208.661      0        "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C60        0.1u               TopLayer    C0603           1220.472      1448.819      0        "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C59        1u                 BottomLayer C0603           1177.165      1480.315      270      "25V 1uF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                                
+C58        0.1u               TopLayer    C0603           1610.236      1444.882      90       "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C57        1u                 BottomLayer C0603           1610.236      1444.882      90       "25V 1uF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                                
+C56        1u                 TopLayer    C0603           830.709       1169.291      90       "25V 1uF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                                
+C55        0.1u               TopLayer    C0603           909.449       1169.291      90       "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C52        10p                TopLayer    C0603           1098.425      1405.512      90       "50V 10pF C0G 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+
+"                                  
+C51        10p                TopLayer    C0603           1098.425      1255.906      270      "50V 10pF C0G 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+
+"                                  
+R28        "22 R"             TopLayer    R0603           1629.921      1055.118      270      "Res SMD
+"                                                                                                
+R24        "22 R"             TopLayer    R0603           1370.079      1055.118      270      "Res SMD
+"                                                                                                
+R22        "22 R"             TopLayer    R0603           1196.850      1055.118      270      "Res SMD
+"                                                                                                
+R27        "22 R"             TopLayer    R0603           1543.307      1055.118      270      "Res SMD
+"                                                                                                
+C42        0.1u               TopLayer    C0603           303.150       767.716       180      "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C6         390p               BottomLayer C0603           740.157       551.181       0        "50V 390pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                               
+C5         2.2n               BottomLayer C0603           807.087       625.984       0        "50V 2.2nF X7R ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+
+"                             
+R11        20k                BottomLayer R0603           177.165       688.976       90       "100mW Thick Film Resistors 75V ±5% 20kO 0603 Chip Resistor - Surface Mount ROHS
+"                        
+C24        0.1u               BottomLayer C0603           594.488       287.402       180      "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C22        1u                 BottomLayer C0603           578.740       1448.819      180      "25V 1uF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                                
+R12        10k                BottomLayer R0603           74.803        661.417       0        "100mW Thick Film Resistors 75V ±5% 10kO 0603 Chip Resistor - Surface Mount ROHS
+"                        
+R20        1M                 TopLayer    R0603           523.622       1346.457      270      "100mW ±25ppm/? ±0.1% 1MO 0603 Chip Resistor - Surface Mount ROHS"                                         
+C27        0.1u               BottomLayer C0603           704.725       188.976       90       "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C25        1u                 BottomLayer C0603           539.370       94.488        90       "25V 1uF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                                
+C23        4.7uF              BottomLayer C0603           594.488       208.661       180      "16V 4.7uF X7S ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                
+C21        1u                 BottomLayer C0603           303.150       1484.252      270      "25V 1uF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                                
+C11        0.1u               BottomLayer C0603           1712.598      854.331       270      "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+R6         1M                 BottomLayer R0603           1712.598      720.472       90       "100mW ±25ppm/? ±0.1% 1MO 0603 Chip Resistor - Surface Mount ROHS"                                         
+R5         5k1                BottomLayer R0603           1633.858      720.472       90       "100mW Thick Film Resistors 75V ±1% 5.1kO 0603 Chip Resistor - Surface Mount ROHS"                         
+R29        "22 R"             TopLayer    R0603           1716.535      1055.118      270      "Res SMD
+"                                                                                                
+C10        0.1u               TopLayer    C0603           818.898       744.095       270      "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C9         0.1u               TopLayer    C0603           1401.575      677.165       0        "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C7         0.1u               TopLayer    C0603           1401.575      602.362       0        "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C20        0.1u               BottomLayer C0603           578.740       1527.559      0        "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C19        4.7uF              TopLayer    C0603           578.740       1527.559      0        "16V 4.7uF X7S ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                
+R13        0R                 TopLayer    R0603           523.622       1212.598      90       "Res SMD"                                                                                                  
+C38        4.7uF              BottomLayer C0603           444.882       799.213       180      "16V 4.7uF X7S ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                
+R14        1.5k               TopLayer    R0603           625.984       1279.527      0        "Thick Film Resistors - SMD 0402 1K0 0.5%
+"                                                               
+R17        1.5k               TopLayer    R0603           728.346       1330.709      90       "Thick Film Resistors - SMD 0402 1K0 0.5%
+"                                                               
+R25        "22 R"             TopLayer    R0603           1456.693      1055.118      270      "Res SMD
+"                                                                                                
+R4         5k1                BottomLayer R0603           1633.858      854.331       270      "100mW Thick Film Resistors 75V ±1% 5.1kO 0603 Chip Resistor - Surface Mount ROHS"                         
+R3         "22 R"             TopLayer    R0603           1401.575      838.583       180      "Res SMD
+"                                                                                                
+R2         "22 R"             TopLayer    R0603           1401.575      755.905       180      "Res SMD
+"                                                                                                
+DD2        REF35160QDBVR      BottomLayer SOT-23-6        425.197       1488.189      90       "Voltage References 650-nA quiescent current, 12-ppm/C drift, ultra-low-power precision voltage reference" 
+C18        4.7uF              BottomLayer C0603           307.087       204.724       180      "16V 4.7uF X7S ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                
+C29        0.1u               BottomLayer C0603           385.827       893.701       0        "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C28        4.7uF              BottomLayer C0603           236.220       893.701       180      "16V 4.7uF X7S ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                
+C17        390p               BottomLayer C0603           307.087       283.465       180      "50V 390pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                               
+C16        2.2n               BottomLayer C0603           307.087       362.205       180      "50V 2.2nF X7R ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+
+"                             
+C26        4.7uF              BottomLayer C0603           673.228       66.929        180      "16V 4.7uF X7S ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                
+C41        4.7uF              TopLayer    C0603           303.150       846.457       180      "16V 4.7uF X7S ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                
+C40        1u                 TopLayer    C0603           401.575       677.165       90       "25V 1uF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                                
+C39        0.1u               TopLayer    C0603           476.378       767.716       270      "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C37        4.7uF              TopLayer    C0603           555.118       767.716       270      "16V 4.7uF X7S ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                
+C4         0.1u               BottomLayer C0603           842.520       885.827       90       "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C3         4.7uF              BottomLayer C0603           842.520       736.221       270      "16V 4.7uF X7S ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                
+C36        4.7uF              BottomLayer C0603           539.370       893.701       180      "16V 4.7uF X7S ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                
+C1         4.7uF              BottomLayer C0603           1417.323      862.205       90       "16V 4.7uF X7S ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                
+C35        390p               BottomLayer C0603           539.370       972.441       180      "50V 390pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                               
+C8         0.1u               TopLayer    C0603           783.465       629.921       180      "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             
+C2         0.1u               BottomLayer C0603           1519.685      771.654       0        "100V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+"                             

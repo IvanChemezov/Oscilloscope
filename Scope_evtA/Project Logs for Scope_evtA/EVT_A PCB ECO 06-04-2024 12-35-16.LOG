@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GNDusb Pin=J1-A1
+Added Pin To Net: NetName=NetF1_1 Pin=J1-A4
+Added Pin To Net: NetName=NetF1_1 Pin=J1-A9
+Added Pin To Net: NetName=GNDusb Pin=J1-A12

@@ -1,0 +1,33 @@
+Removed Member From Class: ClassName=MCU Member=C67
+Removed Member From Class: ClassName=MCU Member=R39
+Change Component Footprint: Designator=VD2 Old Footprint=0402_VD New Footprint=SOD-523-2
+Change Component Comment : Designator=VD2 Old Comment=CDBQR40 New Comment=NSR05T40XV2T5G
+Change component parameters: Designator = "VD2" ("VD2"); Footprint = "0402_VD"; UniqueID = "\QCSLFKIH" ("\QCSLFKIH")
+Change component parameters (AddParameter): Name = "Case"; Value = "SOD-523-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Schottky Diodes & Rectifiers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/308/1/NSR05T40XV2_D-2318283.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.de/ProductDetail/onsemi/NSR05T40XV2T5G?qs=8hV9pjh0QhPa2G06GHkD%2FQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "NSR05T40XV2T5G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "500 mA"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Analog Member=Component C62 10p
+Added Member To Class: ClassName=Analog Member=Component C69 0.1u
+Added Member To Class: ClassName=MCU Member=Component C72 0.1u
+Added Member To Class: ClassName=MCU Member=Component C76 0.1u
+Added Member To Class: ClassName=Analog Member=Component R24 22 R
+Added Member To Class: ClassName=Analog Member=Component R25 22 R
+Added Member To Class: ClassName=Analog Member=Component R28 22 R
+Added Member To Class: ClassName=Analog Member=Component R29 22 R
+Added Member To Class: ClassName=Analog Member=Component R35 22 R
+Added Member To Class: ClassName=Analog Member=Component R36 10 k
+Added Member To Class: ClassName=Analog Member=Component R38 22 R
+Added Member To Class: ClassName=Analog Member=Component R40 10 k
+Added Member To Class: ClassName=MCU Member=Component R41 20k
+Added Member To Class: ClassName=MCU Member=Component R42 5k1
+Added Member To Class: ClassName=MCU Member=Component R43 22 R
+Added Member To Class: ClassName=MCU Member=Component R46 22 R
+Added Member To Class: ClassName=MCU Member=Component R47 22 R
+Added Member To Class: ClassName=MCU Member=Component R49 22 R
+Added Member To Class: ClassName=MCU Member=Component R51 22 R

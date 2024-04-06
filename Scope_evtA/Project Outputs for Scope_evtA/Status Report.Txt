@@ -1,0 +1,27 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Scope_evtA.PrjPcb]
+   Generated File[EVT_A.GTO]
+   Generated File[EVT_A.GTP]
+   Generated File[EVT_A.GTS]
+   Generated File[EVT_A.GTL]
+   Generated File[EVT_A.G1]
+   Generated File[EVT_A.GP1]
+   Generated File[EVT_A.GP2]
+   Generated File[EVT_A.G2]
+   Generated File[EVT_A.GBL]
+   Generated File[EVT_A.GBS]
+   Generated File[EVT_A.GBP]
+   Generated File[EVT_A.GBO]
+   Generated File[EVT_A.GM3]
+   Generated File[EVT_A.GM4]
+   Generated File[EVT_A.GM13]
+   Generated File[EVT_A.RUL]
+   Generated File[EVT_A.EXTREP]
+   Generated File[EVT_A.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 23:01:24 On 06/04/2024

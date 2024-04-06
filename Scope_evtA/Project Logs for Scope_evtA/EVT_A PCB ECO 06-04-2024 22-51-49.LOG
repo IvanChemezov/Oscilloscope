@@ -1,0 +1,22 @@
+Change Component Comment : Designator=R6 Old Comment=1 M New Comment=1M
+Change Component Description : Designator=R20 Old Description=Res SMD New Description=100mW ±25ppm/? ±0.1% 1MO 0603 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R6 Old Description=Thick Film Resistors 0402 5% 1.0Mohm Anti-Sulfur AEC-Q200 New Description=100mW ±25ppm/? ±0.1% 1MO 0603 Chip Resistor - Surface Mount ROHS
+Change component parameters: Designator = "R20" ("R20"); Footprint = "R0603"; UniqueID = "\UUOEMKWO" ("\UUOEMKWO")
+Change component parameters (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Viking Tech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "AR03BTCX1004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "R0603"; UniqueID = "\BOOQCFIA" ("\BOOQCFIA")
+Change component parameters (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2308241947_FOJAN-FRC0603J105-TS_C2907115.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_FOJAN-FRC0603J105-TS_C2907115.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Viking Tech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "AR03BTCX1004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\It's_work\Scope\Scope_evtA\EVT_A.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=evt_a-roundholes.txt|DrillLayers=gtl,g1,gp1,gp2,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=evt_a-slotholes.txt|DrillLayers=gtl,g1,gp1,gp2,g2,gbl

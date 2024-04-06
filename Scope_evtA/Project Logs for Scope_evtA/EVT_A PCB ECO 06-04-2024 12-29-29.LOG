@@ -1,0 +1,26 @@
+Added Component: Designator=J1(217179-0001)
+Add component (AddParameter): Name = "Case"; Value = "16 Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "USB Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/en-us/products/part-detail/2171790001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Molex/217179-0001?qs=DRkmTr78QAQqCH4BoIR1xg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "217179-0001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "USB 2.0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC11_1 Pin=J1-0
+Added Pin To Net: NetName=NetC11_1 Pin=J1-0
+Added Pin To Net: NetName=NetC11_1 Pin=J1-0
+Added Pin To Net: NetName=NetC11_1 Pin=J1-0
+Added Pin To Net: NetName=NetJ1_A5 Pin=J1-A5
+Added Pin To Net: NetName=NetJ1_A6 Pin=J1-A6
+Added Pin To Net: NetName=NetJ1_A7 Pin=J1-A7
+Added Pin To Net: NetName=NetJ1_B5 Pin=J1-B5
+Added Pin To Net: NetName=NetJ1_A6 Pin=J1-B6
+Added Pin To Net: NetName=NetJ1_A7 Pin=J1-B7
+Added Member To Class: ClassName=Power Member=Component J1 217179-0001
+Added Member To Class: ClassName=Power Member=Component R5 5k1
+Added Member To Class: ClassName=Power Member=Component R6 1 M
+Added Room: Name=Analog
+Added Room: Name=MCU
+Added Room: Name=Power

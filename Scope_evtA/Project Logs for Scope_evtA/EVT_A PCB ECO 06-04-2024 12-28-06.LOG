@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=NetC11_1 Pin=J1-S1
+Removed Pin From Net: NetName=NetC11_1 Pin=J1-S2
+Removed Pin From Net: NetName=NetC11_1 Pin=J1-S3
+Removed Pin From Net: NetName=NetC11_1 Pin=J1-S4
+Change Component Footprint: Designator=VD4 Old Footprint=0402_VD New Footprint=SOD-523-2
+Change Component Comment : Designator=VD4 Old Comment=CDBQR40 New Comment=NSR05T40XV2T5G
+Change Component Comment : Designator=J1 Old Comment=USB4056-03-A New Comment=217179-0001
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change component parameters: Designator = "VD4" ("VD4"); Footprint = "0402_VD"; UniqueID = "\VBPVZNNC" ("\VBPVZNNC")
+Change component parameters (AddParameter): Name = "Case"; Value = "SOD-523-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Schottky Diodes & Rectifiers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/308/1/NSR05T40XV2_D-2318283.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.de/ProductDetail/onsemi/NSR05T40XV2T5G?qs=8hV9pjh0QhPa2G06GHkD%2FQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "NSR05T40XV2T5G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "500 mA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1" ("J1"); Footprint = "USB 3.2 Gen 2"; UniqueID = "\LYVZPODI" ("\LYVZPODI")
+Change component parameters (AddParameter): Name = "Case"; Value = "16 Contact"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "USB Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/en-us/products/part-detail/2171790001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Molex/217179-0001?qs=DRkmTr78QAQqCH4BoIR1xg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P/N"; Value = "217179-0001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "USB 2.0"; VariantName = "[No Variations]"
+Added Room: Name=Analog
+Added Room: Name=MCU
+Added Room: Name=Power
